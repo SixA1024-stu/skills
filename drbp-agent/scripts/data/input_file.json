@@ -1,0 +1,3202 @@
+[
+    {
+        "module_id": 0,
+        "id": 0,
+        "rated capacity": 22.0,
+        "soc": 0.8760252408881867,
+        "temperature_K": 298.15,
+        "voltage": 4.1320536300796205,
+        "R_eq": 0.005997894525240888,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 1,
+        "rated capacity": 22.0,
+        "soc": 0.8228810030903105,
+        "temperature_K": 298.15,
+        "voltage": 4.102813361730574,
+        "R_eq": 0.0059978413810030905,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 2,
+        "rated capacity": 22.0,
+        "soc": 0.8486162769694192,
+        "temperature_K": 298.15,
+        "voltage": 4.117225115102875,
+        "R_eq": 0.005997867116276969,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 3,
+        "rated capacity": 22.0,
+        "soc": 0.9103950206075083,
+        "temperature_K": 298.15,
+        "voltage": 4.150613311128054,
+        "R_eq": 0.005997928895020608,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 4,
+        "rated capacity": 22.0,
+        "soc": 0.8688593632928284,
+        "temperature_K": 298.15,
+        "voltage": 4.128184056178127,
+        "R_eq": 0.005997887359363293,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 5,
+        "rated capacity": 22.0,
+        "soc": 0.8829487484001056,
+        "temperature_K": 298.15,
+        "voltage": 4.135792324136057,
+        "R_eq": 0.0059979014487484,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 6,
+        "rated capacity": 22.0,
+        "soc": 0.8407010665284188,
+        "temperature_K": 298.15,
+        "voltage": 4.112792597255915,
+        "R_eq": 0.005997859201066529,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 7,
+        "rated capacity": 22.0,
+        "soc": 0.8585275150437566,
+        "temperature_K": 298.15,
+        "voltage": 4.122604858123629,
+        "R_eq": 0.0059978770275150445,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 8,
+        "rated capacity": 22.0,
+        "soc": 0.8310398688442888,
+        "temperature_K": 298.15,
+        "voltage": 4.107382326552802,
+        "R_eq": 0.0059978495398688445,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 9,
+        "rated capacity": 22.0,
+        "soc": 0.8405886034496975,
+        "temperature_K": 298.15,
+        "voltage": 4.112729617931831,
+        "R_eq": 0.0059978590886034504,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 10,
+        "rated capacity": 22.0,
+        "soc": 0.8307672223348554,
+        "temperature_K": 298.15,
+        "voltage": 4.10722964450752,
+        "R_eq": 0.005997849267222335,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 11,
+        "rated capacity": 22.0,
+        "soc": 0.867842416629567,
+        "temperature_K": 298.15,
+        "voltage": 4.127634904979966,
+        "R_eq": 0.00599788634241663,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 12,
+        "rated capacity": 22.0,
+        "soc": 0.8580469784164446,
+        "temperature_K": 298.15,
+        "voltage": 4.12234536834488,
+        "R_eq": 0.005997876546978417,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 13,
+        "rated capacity": 22.0,
+        "soc": 0.9441267064134143,
+        "temperature_K": 298.15,
+        "voltage": 4.168828421463243,
+        "R_eq": 0.005997962626706414,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 14,
+        "rated capacity": 22.0,
+        "soc": 0.861256426186429,
+        "temperature_K": 298.15,
+        "voltage": 4.124078470140672,
+        "R_eq": 0.005997879756426187,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 0,
+        "id": 15,
+        "rated capacity": 22.0,
+        "soc": 0.8433660674830722,
+        "temperature_K": 298.15,
+        "voltage": 4.114284997790521,
+        "R_eq": 0.0059978618660674835,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 16,
+        "rated capacity": 22.0,
+        "soc": 0.9459247475960009,
+        "temperature_K": 298.15,
+        "voltage": 4.1697993637018405,
+        "R_eq": 0.005997964424747596,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 17,
+        "rated capacity": 22.0,
+        "soc": 0.8401252058708467,
+        "temperature_K": 298.15,
+        "voltage": 4.112470115287675,
+        "R_eq": 0.0059978586252058715,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 18,
+        "rated capacity": 22.0,
+        "soc": 0.9077411604953973,
+        "temperature_K": 298.15,
+        "voltage": 4.149180226667514,
+        "R_eq": 0.005997926241160496,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 19,
+        "rated capacity": 22.0,
+        "soc": 0.9291857007718156,
+        "temperature_K": 298.15,
+        "voltage": 4.16076027841678,
+        "R_eq": 0.005997947685700772,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 20,
+        "rated capacity": 22.0,
+        "soc": 0.8822083354986047,
+        "temperature_K": 298.15,
+        "voltage": 4.135392501169246,
+        "R_eq": 0.005997900708335499,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 21,
+        "rated capacity": 22.0,
+        "soc": 0.9288602737674472,
+        "temperature_K": 298.15,
+        "voltage": 4.160584547834421,
+        "R_eq": 0.005997947360273767,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 22,
+        "rated capacity": 22.0,
+        "soc": 0.9409407123258983,
+        "temperature_K": 298.15,
+        "voltage": 4.167107984655985,
+        "R_eq": 0.005997959440712327,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 23,
+        "rated capacity": 22.0,
+        "soc": 0.9378325072206101,
+        "temperature_K": 298.15,
+        "voltage": 4.165429553899129,
+        "R_eq": 0.005997956332507221,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 24,
+        "rated capacity": 22.0,
+        "soc": 0.8569916122246193,
+        "temperature_K": 298.15,
+        "voltage": 4.121775470601294,
+        "R_eq": 0.005997875491612225,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 25,
+        "rated capacity": 22.0,
+        "soc": 0.9487640748710121,
+        "temperature_K": 298.15,
+        "voltage": 4.171332600430346,
+        "R_eq": 0.005997967264074871,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 26,
+        "rated capacity": 22.0,
+        "soc": 0.9232653203122668,
+        "temperature_K": 298.15,
+        "voltage": 4.157563272968623,
+        "R_eq": 0.005997941765320313,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 27,
+        "rated capacity": 22.0,
+        "soc": 0.8840272800064193,
+        "temperature_K": 298.15,
+        "voltage": 4.136374731203467,
+        "R_eq": 0.005997902527280006,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 28,
+        "rated capacity": 22.0,
+        "soc": 0.9173696883570728,
+        "temperature_K": 298.15,
+        "voltage": 4.1543796317128185,
+        "R_eq": 0.005997935869688357,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 29,
+        "rated capacity": 22.0,
+        "soc": 0.901631978167,
+        "temperature_K": 298.15,
+        "voltage": 4.1458812682101795,
+        "R_eq": 0.0059979201319781674,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 30,
+        "rated capacity": 22.0,
+        "soc": 0.8550134369526758,
+        "temperature_K": 298.15,
+        "voltage": 4.1207072559544455,
+        "R_eq": 0.0059978735134369535,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 1,
+        "id": 31,
+        "rated capacity": 22.0,
+        "soc": 0.8559129413215242,
+        "temperature_K": 298.15,
+        "voltage": 4.121192988313624,
+        "R_eq": 0.005997874412941322,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 32,
+        "rated capacity": 22.0,
+        "soc": 0.8973288455377226,
+        "temperature_K": 298.15,
+        "voltage": 4.14355757659037,
+        "R_eq": 0.005997915828845538,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 33,
+        "rated capacity": 22.0,
+        "soc": 0.8630791241607965,
+        "temperature_K": 298.15,
+        "voltage": 4.1250627270468305,
+        "R_eq": 0.005997881579124161,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 34,
+        "rated capacity": 22.0,
+        "soc": 0.8791992871476378,
+        "temperature_K": 298.15,
+        "voltage": 4.133767615059725,
+        "R_eq": 0.0059978976992871484,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 35,
+        "rated capacity": 22.0,
+        "soc": 0.8420108584404727,
+        "temperature_K": 298.15,
+        "voltage": 4.113526080726665,
+        "R_eq": 0.0059978605108584404,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 36,
+        "rated capacity": 22.0,
+        "soc": 0.9076108186523368,
+        "temperature_K": 298.15,
+        "voltage": 4.149109842072262,
+        "R_eq": 0.005997926110818653,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 37,
+        "rated capacity": 22.0,
+        "soc": 0.8773564346957606,
+        "temperature_K": 298.15,
+        "voltage": 4.13277247473571,
+        "R_eq": 0.005997895856434696,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 38,
+        "rated capacity": 22.0,
+        "soc": 0.8204009736517985,
+        "temperature_K": 298.15,
+        "voltage": 4.101424545245007,
+        "R_eq": 0.005997838900973653,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 39,
+        "rated capacity": 22.0,
+        "soc": 0.8469468234697082,
+        "temperature_K": 298.15,
+        "voltage": 4.1162902211430366,
+        "R_eq": 0.00599786544682347,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 40,
+        "rated capacity": 22.0,
+        "soc": 0.9363924753869953,
+        "temperature_K": 298.15,
+        "voltage": 4.164651936708977,
+        "R_eq": 0.005997954892475388,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 41,
+        "rated capacity": 22.0,
+        "soc": 0.9304038258810332,
+        "temperature_K": 298.15,
+        "voltage": 4.161418065975758,
+        "R_eq": 0.005997948903825882,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 42,
+        "rated capacity": 22.0,
+        "soc": 0.8294390972384934,
+        "temperature_K": 298.15,
+        "voltage": 4.106485894453557,
+        "R_eq": 0.005997847939097239,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 43,
+        "rated capacity": 22.0,
+        "soc": 0.86259822449072,
+        "temperature_K": 298.15,
+        "voltage": 4.124803041224989,
+        "R_eq": 0.005997881098224491,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 44,
+        "rated capacity": 22.0,
+        "soc": 0.8791987114135275,
+        "temperature_K": 298.15,
+        "voltage": 4.133767304163305,
+        "R_eq": 0.005997897698711414,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 45,
+        "rated capacity": 22.0,
+        "soc": 0.9152287514554942,
+        "temperature_K": 298.15,
+        "voltage": 4.153223525785966,
+        "R_eq": 0.005997933728751456,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 46,
+        "rated capacity": 22.0,
+        "soc": 0.8387913237468749,
+        "temperature_K": 298.15,
+        "voltage": 4.11172314129825,
+        "R_eq": 0.005997857291323747,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 2,
+        "id": 47,
+        "rated capacity": 22.0,
+        "soc": 0.8694992973308161,
+        "temperature_K": 298.15,
+        "voltage": 4.12852962055864,
+        "R_eq": 0.005997887999297331,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 48,
+        "rated capacity": 22.0,
+        "soc": 0.8477899823743127,
+        "temperature_K": 298.15,
+        "voltage": 4.116762390129615,
+        "R_eq": 0.005997866289982375,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 49,
+        "rated capacity": 22.0,
+        "soc": 0.8562175851154804,
+        "temperature_K": 298.15,
+        "voltage": 4.12135749596236,
+        "R_eq": 0.005997874717585116,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 50,
+        "rated capacity": 22.0,
+        "soc": 0.8358069431837929,
+        "temperature_K": 298.15,
+        "voltage": 4.110051888182924,
+        "R_eq": 0.005997854306943184,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 51,
+        "rated capacity": 22.0,
+        "soc": 0.8684793625697904,
+        "temperature_K": 298.15,
+        "voltage": 4.127978855787687,
+        "R_eq": 0.00599788697936257,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 52,
+        "rated capacity": 22.0,
+        "soc": 0.8697560123286003,
+        "temperature_K": 298.15,
+        "voltage": 4.128668246657444,
+        "R_eq": 0.005997888256012329,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 53,
+        "rated capacity": 22.0,
+        "soc": 0.9360087155886548,
+        "temperature_K": 298.15,
+        "voltage": 4.164444706417873,
+        "R_eq": 0.005997954508715589,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 54,
+        "rated capacity": 22.0,
+        "soc": 0.8341182527584682,
+        "temperature_K": 298.15,
+        "voltage": 4.109106221544742,
+        "R_eq": 0.005997852618252759,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 55,
+        "rated capacity": 22.0,
+        "soc": 0.89370718119433,
+        "temperature_K": 298.15,
+        "voltage": 4.141601877844938,
+        "R_eq": 0.005997912207181195,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 56,
+        "rated capacity": 22.0,
+        "soc": 0.9395986064559007,
+        "temperature_K": 298.15,
+        "voltage": 4.166383247486186,
+        "R_eq": 0.005997958098606457,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 57,
+        "rated capacity": 22.0,
+        "soc": 0.8583026108607221,
+        "temperature_K": 298.15,
+        "voltage": 4.12248340986479,
+        "R_eq": 0.0059978768026108615,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 58,
+        "rated capacity": 22.0,
+        "soc": 0.8383466379658207,
+        "temperature_K": 298.15,
+        "voltage": 4.11147411726086,
+        "R_eq": 0.0059978568466379665,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 59,
+        "rated capacity": 22.0,
+        "soc": 0.8880545407097474,
+        "temperature_K": 298.15,
+        "voltage": 4.1385494519832635,
+        "R_eq": 0.00599790655454071,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 60,
+        "rated capacity": 22.0,
+        "soc": 0.8948047280594597,
+        "temperature_K": 298.15,
+        "voltage": 4.142194553152108,
+        "R_eq": 0.00599791330472806,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 61,
+        "rated capacity": 22.0,
+        "soc": 0.892437001391426,
+        "temperature_K": 298.15,
+        "voltage": 4.14091598075137,
+        "R_eq": 0.005997910937001392,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 62,
+        "rated capacity": 22.0,
+        "soc": 0.8833989257032684,
+        "temperature_K": 298.15,
+        "voltage": 4.136035419879764,
+        "R_eq": 0.005997901898925704,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 3,
+        "id": 63,
+        "rated capacity": 22.0,
+        "soc": 0.8301361004857284,
+        "temperature_K": 298.15,
+        "voltage": 4.106876216272008,
+        "R_eq": 0.005997848636100486,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 64,
+        "rated capacity": 22.0,
+        "soc": 0.8955407212269232,
+        "temperature_K": 298.15,
+        "voltage": 4.142591989462538,
+        "R_eq": 0.005997914040721228,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 65,
+        "rated capacity": 22.0,
+        "soc": 0.8384114083711671,
+        "temperature_K": 298.15,
+        "voltage": 4.1115103886878535,
+        "R_eq": 0.005997856911408372,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 66,
+        "rated capacity": 22.0,
+        "soc": 0.8265979507616775,
+        "temperature_K": 298.15,
+        "voltage": 4.10489485242654,
+        "R_eq": 0.005997845097950762,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 67,
+        "rated capacity": 22.0,
+        "soc": 0.9439869553188802,
+        "temperature_K": 298.15,
+        "voltage": 4.168752955872195,
+        "R_eq": 0.005997962486955319,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 68,
+        "rated capacity": 22.0,
+        "soc": 0.9474054714272839,
+        "temperature_K": 298.15,
+        "voltage": 4.170598954570733,
+        "R_eq": 0.005997965905471428,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 69,
+        "rated capacity": 22.0,
+        "soc": 0.8236273256594558,
+        "temperature_K": 298.15,
+        "voltage": 4.103231302369295,
+        "R_eq": 0.00599784212732566,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 70,
+        "rated capacity": 22.0,
+        "soc": 0.8972964481408027,
+        "temperature_K": 298.15,
+        "voltage": 4.143540081996033,
+        "R_eq": 0.005997915796448141,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 71,
+        "rated capacity": 22.0,
+        "soc": 0.9368920165094835,
+        "temperature_K": 298.15,
+        "voltage": 4.164921688915121,
+        "R_eq": 0.00599795539201651,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 72,
+        "rated capacity": 22.0,
+        "soc": 0.8657701415931364,
+        "temperature_K": 298.15,
+        "voltage": 4.126515876460294,
+        "R_eq": 0.005997884270141593,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 73,
+        "rated capacity": 22.0,
+        "soc": 0.8871433634003926,
+        "temperature_K": 298.15,
+        "voltage": 4.138057416236212,
+        "R_eq": 0.005997905643363401,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 74,
+        "rated capacity": 22.0,
+        "soc": 0.92625995448857,
+        "temperature_K": 298.15,
+        "voltage": 4.159180375423827,
+        "R_eq": 0.005997944759954489,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 75,
+        "rated capacity": 22.0,
+        "soc": 0.8541808809958653,
+        "temperature_K": 298.15,
+        "voltage": 4.120257675737768,
+        "R_eq": 0.005997872680880996,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 76,
+        "rated capacity": 22.0,
+        "soc": 0.9337501509963836,
+        "temperature_K": 298.15,
+        "voltage": 4.163225081538047,
+        "R_eq": 0.005997952250150997,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 77,
+        "rated capacity": 22.0,
+        "soc": 0.8686864204697563,
+        "temperature_K": 298.15,
+        "voltage": 4.128090667053669,
+        "R_eq": 0.0059978871864204706,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 78,
+        "rated capacity": 22.0,
+        "soc": 0.8243216900293936,
+        "temperature_K": 298.15,
+        "voltage": 4.103620146416461,
+        "R_eq": 0.00599784282169003,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 4,
+        "id": 79,
+        "rated capacity": 22.0,
+        "soc": 0.9419999817075535,
+        "temperature_K": 298.15,
+        "voltage": 4.167679990122078,
+        "R_eq": 0.005997960499981708,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 80,
+        "rated capacity": 22.0,
+        "soc": 0.8970516251985652,
+        "temperature_K": 298.15,
+        "voltage": 4.143407877607225,
+        "R_eq": 0.005997915551625199,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 81,
+        "rated capacity": 22.0,
+        "soc": 0.9251469598918552,
+        "temperature_K": 298.15,
+        "voltage": 4.158579358341601,
+        "R_eq": 0.005997943646959892,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 82,
+        "rated capacity": 22.0,
+        "soc": 0.840010229229272,
+        "temperature_K": 298.15,
+        "voltage": 4.112405728368393,
+        "R_eq": 0.0059978585102292295,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 83,
+        "rated capacity": 22.0,
+        "soc": 0.8872089861563968,
+        "temperature_K": 298.15,
+        "voltage": 4.138092852524454,
+        "R_eq": 0.005997905708986157,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 84,
+        "rated capacity": 22.0,
+        "soc": 0.9016650277278064,
+        "temperature_K": 298.15,
+        "voltage": 4.145899114973015,
+        "R_eq": 0.005997920165027728,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 85,
+        "rated capacity": 22.0,
+        "soc": 0.8271501831533729,
+        "temperature_K": 298.15,
+        "voltage": 4.105204102565889,
+        "R_eq": 0.005997845650183154,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 86,
+        "rated capacity": 22.0,
+        "soc": 0.9314647615304447,
+        "temperature_K": 298.15,
+        "voltage": 4.16199097122644,
+        "R_eq": 0.005997949964761531,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 87,
+        "rated capacity": 22.0,
+        "soc": 0.924950469949623,
+        "temperature_K": 298.15,
+        "voltage": 4.158473253772796,
+        "R_eq": 0.00599794345046995,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 88,
+        "rated capacity": 22.0,
+        "soc": 0.856513971595148,
+        "temperature_K": 298.15,
+        "voltage": 4.12151754466138,
+        "R_eq": 0.005997875013971595,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 89,
+        "rated capacity": 22.0,
+        "soc": 0.8659171889452173,
+        "temperature_K": 298.15,
+        "voltage": 4.126595282030418,
+        "R_eq": 0.005997884417188946,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 90,
+        "rated capacity": 22.0,
+        "soc": 0.840155567463373,
+        "temperature_K": 298.15,
+        "voltage": 4.112487117779489,
+        "R_eq": 0.005997858655567464,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 91,
+        "rated capacity": 22.0,
+        "soc": 0.884912306282144,
+        "temperature_K": 298.15,
+        "voltage": 4.1368526453923575,
+        "R_eq": 0.005997903412306283,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 92,
+        "rated capacity": 22.0,
+        "soc": 0.8617005079484517,
+        "temperature_K": 298.15,
+        "voltage": 4.124318274292164,
+        "R_eq": 0.0059978802005079485,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 93,
+        "rated capacity": 22.0,
+        "soc": 0.9052596520916807,
+        "temperature_K": 298.15,
+        "voltage": 4.147840212129507,
+        "R_eq": 0.005997923759652092,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 94,
+        "rated capacity": 22.0,
+        "soc": 0.9473169684523631,
+        "temperature_K": 298.15,
+        "voltage": 4.1705511629642755,
+        "R_eq": 0.005997965816968453,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 5,
+        "id": 95,
+        "rated capacity": 22.0,
+        "soc": 0.9072693009443187,
+        "temperature_K": 298.15,
+        "voltage": 4.148925422509931,
+        "R_eq": 0.005997925769300944,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 96,
+        "rated capacity": 22.0,
+        "soc": 0.899230051667824,
+        "temperature_K": 298.15,
+        "voltage": 4.144584227900625,
+        "R_eq": 0.005997917730051669,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 97,
+        "rated capacity": 22.0,
+        "soc": 0.8483806440023399,
+        "temperature_K": 298.15,
+        "voltage": 4.117093160641311,
+        "R_eq": 0.005997866880644003,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 98,
+        "rated capacity": 22.0,
+        "soc": 0.9333827626417778,
+        "temperature_K": 298.15,
+        "voltage": 4.16302669182656,
+        "R_eq": 0.005997951882762642,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 99,
+        "rated capacity": 22.0,
+        "soc": 0.899748158960223,
+        "temperature_K": 298.15,
+        "voltage": 4.14486400583852,
+        "R_eq": 0.005997918248158961,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 100,
+        "rated capacity": 22.0,
+        "soc": 0.8600527279769719,
+        "temperature_K": 298.15,
+        "voltage": 4.123428473107565,
+        "R_eq": 0.005997878552727977,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 101,
+        "rated capacity": 22.0,
+        "soc": 0.9145224835558264,
+        "temperature_K": 298.15,
+        "voltage": 4.1528421411201455,
+        "R_eq": 0.005997933022483556,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 102,
+        "rated capacity": 22.0,
+        "soc": 0.9353439274207749,
+        "temperature_K": 298.15,
+        "voltage": 4.164085720807218,
+        "R_eq": 0.005997953843927421,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 103,
+        "rated capacity": 22.0,
+        "soc": 0.8567218896826347,
+        "temperature_K": 298.15,
+        "voltage": 4.121629820428623,
+        "R_eq": 0.0059978752218896834,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 104,
+        "rated capacity": 22.0,
+        "soc": 0.8494406679357812,
+        "temperature_K": 298.15,
+        "voltage": 4.117686774044038,
+        "R_eq": 0.005997867940667936,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 105,
+        "rated capacity": 22.0,
+        "soc": 0.8996195159516588,
+        "temperature_K": 298.15,
+        "voltage": 4.144794538613895,
+        "R_eq": 0.005997918119515952,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 106,
+        "rated capacity": 22.0,
+        "soc": 0.9156683277305858,
+        "temperature_K": 298.15,
+        "voltage": 4.153460896974516,
+        "R_eq": 0.005997934168327731,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 107,
+        "rated capacity": 22.0,
+        "soc": 0.8495245866566998,
+        "temperature_K": 298.15,
+        "voltage": 4.117733768527752,
+        "R_eq": 0.005997868024586657,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 108,
+        "rated capacity": 22.0,
+        "soc": 0.902031512662788,
+        "temperature_K": 298.15,
+        "voltage": 4.146097016837905,
+        "R_eq": 0.005997920531512663,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 109,
+        "rated capacity": 22.0,
+        "soc": 0.8246968154985297,
+        "temperature_K": 298.15,
+        "voltage": 4.103830216679177,
+        "R_eq": 0.005997843196815499,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 110,
+        "rated capacity": 22.0,
+        "soc": 0.8685291012940193,
+        "temperature_K": 298.15,
+        "voltage": 4.12800571469877,
+        "R_eq": 0.005997887029101295,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 6,
+        "id": 111,
+        "rated capacity": 22.0,
+        "soc": 0.9344660699493906,
+        "temperature_K": 298.15,
+        "voltage": 4.16361167777267,
+        "R_eq": 0.00599795296606995,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 112,
+        "rated capacity": 22.0,
+        "soc": 0.9311376645012224,
+        "temperature_K": 298.15,
+        "voltage": 4.16181433883066,
+        "R_eq": 0.005997949637664502,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 113,
+        "rated capacity": 22.0,
+        "soc": 0.9393260195888753,
+        "temperature_K": 298.15,
+        "voltage": 4.166236050577992,
+        "R_eq": 0.0059979578260195895,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 114,
+        "rated capacity": 22.0,
+        "soc": 0.9162812997767227,
+        "temperature_K": 298.15,
+        "voltage": 4.15379190187943,
+        "R_eq": 0.005997934781299777,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 115,
+        "rated capacity": 22.0,
+        "soc": 0.9170575622503054,
+        "temperature_K": 298.15,
+        "voltage": 4.154211083615165,
+        "R_eq": 0.005997935557562251,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 116,
+        "rated capacity": 22.0,
+        "soc": 0.8389337481131799,
+        "temperature_K": 298.15,
+        "voltage": 4.111802898943381,
+        "R_eq": 0.0059978574337481135,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 117,
+        "rated capacity": 22.0,
+        "soc": 0.9170582198305901,
+        "temperature_K": 298.15,
+        "voltage": 4.1542114387085185,
+        "R_eq": 0.005997935558219831,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 118,
+        "rated capacity": 22.0,
+        "soc": 0.9243790819817366,
+        "temperature_K": 298.15,
+        "voltage": 4.1581647042701375,
+        "R_eq": 0.005997942879081982,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 119,
+        "rated capacity": 22.0,
+        "soc": 0.9387253204664902,
+        "temperature_K": 298.15,
+        "voltage": 4.165911673051904,
+        "R_eq": 0.005997957225320467,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 120,
+        "rated capacity": 22.0,
+        "soc": 0.8207598430289383,
+        "temperature_K": 298.15,
+        "voltage": 4.101625512096206,
+        "R_eq": 0.0059978392598430295,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 121,
+        "rated capacity": 22.0,
+        "soc": 0.9194967024484506,
+        "temperature_K": 298.15,
+        "voltage": 4.1555282193221625,
+        "R_eq": 0.005997937996702449,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 122,
+        "rated capacity": 22.0,
+        "soc": 0.8276557448067225,
+        "temperature_K": 298.15,
+        "voltage": 4.105487217091765,
+        "R_eq": 0.005997846155744807,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 123,
+        "rated capacity": 22.0,
+        "soc": 0.9023748499085134,
+        "temperature_K": 298.15,
+        "voltage": 4.146282418950597,
+        "R_eq": 0.005997920874849909,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 124,
+        "rated capacity": 22.0,
+        "soc": 0.8388368486531953,
+        "temperature_K": 298.15,
+        "voltage": 4.11174863524579,
+        "R_eq": 0.005997857336848654,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 125,
+        "rated capacity": 22.0,
+        "soc": 0.9059914819315421,
+        "temperature_K": 298.15,
+        "voltage": 4.148235400243032,
+        "R_eq": 0.005997924491481932,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 126,
+        "rated capacity": 22.0,
+        "soc": 0.8933649343207503,
+        "temperature_K": 298.15,
+        "voltage": 4.141417064533205,
+        "R_eq": 0.005997911864934321,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 7,
+        "id": 127,
+        "rated capacity": 22.0,
+        "soc": 0.9123227528558707,
+        "temperature_K": 298.15,
+        "voltage": 4.15165428654217,
+        "R_eq": 0.005997930822752857,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 128,
+        "rated capacity": 22.0,
+        "soc": 0.8580368736606758,
+        "temperature_K": 298.15,
+        "voltage": 4.122339911776765,
+        "R_eq": 0.005997876536873661,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 129,
+        "rated capacity": 22.0,
+        "soc": 0.9351535351193663,
+        "temperature_K": 298.15,
+        "voltage": 4.163982908964457,
+        "R_eq": 0.0059979536535351196,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 130,
+        "rated capacity": 22.0,
+        "soc": 0.920780122429599,
+        "temperature_K": 298.15,
+        "voltage": 4.1562212661119835,
+        "R_eq": 0.00599793928012243,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 131,
+        "rated capacity": 22.0,
+        "soc": 0.9335580296337594,
+        "temperature_K": 298.15,
+        "voltage": 4.16312133600223,
+        "R_eq": 0.005997952058029634,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 132,
+        "rated capacity": 22.0,
+        "soc": 0.899725536902362,
+        "temperature_K": 298.15,
+        "voltage": 4.144851789927275,
+        "R_eq": 0.005997918225536903,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 133,
+        "rated capacity": 22.0,
+        "soc": 0.9344924742567762,
+        "temperature_K": 298.15,
+        "voltage": 4.163625936098659,
+        "R_eq": 0.005997952992474257,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 134,
+        "rated capacity": 22.0,
+        "soc": 0.8978524642645068,
+        "temperature_K": 298.15,
+        "voltage": 4.143840330702833,
+        "R_eq": 0.005997916352464265,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 135,
+        "rated capacity": 22.0,
+        "soc": 0.8305332047293068,
+        "temperature_K": 298.15,
+        "voltage": 4.107098594648412,
+        "R_eq": 0.005997849033204729,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 136,
+        "rated capacity": 22.0,
+        "soc": 0.8436582600687755,
+        "temperature_K": 298.15,
+        "voltage": 4.114448625638515,
+        "R_eq": 0.005997862158260069,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 137,
+        "rated capacity": 22.0,
+        "soc": 0.8835981896912356,
+        "temperature_K": 298.15,
+        "voltage": 4.136143022433267,
+        "R_eq": 0.005997902098189692,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 138,
+        "rated capacity": 22.0,
+        "soc": 0.8239219949942842,
+        "temperature_K": 298.15,
+        "voltage": 4.1033963171967995,
+        "R_eq": 0.005997842421994994,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 139,
+        "rated capacity": 22.0,
+        "soc": 0.8278211768764155,
+        "temperature_K": 298.15,
+        "voltage": 4.105579859050793,
+        "R_eq": 0.005997846321176877,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 140,
+        "rated capacity": 22.0,
+        "soc": 0.9136780813660972,
+        "temperature_K": 298.15,
+        "voltage": 4.152386163937692,
+        "R_eq": 0.005997932178081367,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 141,
+        "rated capacity": 22.0,
+        "soc": 0.8438381083301484,
+        "temperature_K": 298.15,
+        "voltage": 4.114549340664883,
+        "R_eq": 0.005997862338108331,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 142,
+        "rated capacity": 22.0,
+        "soc": 0.8485142803700889,
+        "temperature_K": 298.15,
+        "voltage": 4.11716799700725,
+        "R_eq": 0.005997867014280371,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 8,
+        "id": 143,
+        "rated capacity": 22.0,
+        "soc": 0.9217476521323371,
+        "temperature_K": 298.15,
+        "voltage": 4.156743732151462,
+        "R_eq": 0.0059979402476521325,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 144,
+        "rated capacity": 22.0,
+        "soc": 0.9492120179888794,
+        "temperature_K": 298.15,
+        "voltage": 4.171574489713994,
+        "R_eq": 0.00599796771201799,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 145,
+        "rated capacity": 22.0,
+        "soc": 0.9230829344827303,
+        "temperature_K": 298.15,
+        "voltage": 4.157464784620674,
+        "R_eq": 0.005997941582934483,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 146,
+        "rated capacity": 22.0,
+        "soc": 0.9150791548517405,
+        "temperature_K": 298.15,
+        "voltage": 4.15314274361994,
+        "R_eq": 0.005997933579154852,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 147,
+        "rated capacity": 22.0,
+        "soc": 0.9024443201684198,
+        "temperature_K": 298.15,
+        "voltage": 4.146319932890946,
+        "R_eq": 0.005997920944320168,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 148,
+        "rated capacity": 22.0,
+        "soc": 0.8847212801969222,
+        "temperature_K": 298.15,
+        "voltage": 4.136749491306338,
+        "R_eq": 0.005997903221280197,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 149,
+        "rated capacity": 22.0,
+        "soc": 0.8414214640447351,
+        "temperature_K": 298.15,
+        "voltage": 4.113196019865052,
+        "R_eq": 0.005997859921464045,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 150,
+        "rated capacity": 22.0,
+        "soc": 0.9369281992382642,
+        "temperature_K": 298.15,
+        "voltage": 4.164941227588662,
+        "R_eq": 0.005997955428199238,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 151,
+        "rated capacity": 22.0,
+        "soc": 0.8810036724812266,
+        "temperature_K": 298.15,
+        "voltage": 4.134741983139862,
+        "R_eq": 0.0059978995036724814,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 152,
+        "rated capacity": 22.0,
+        "soc": 0.9069120626760775,
+        "temperature_K": 298.15,
+        "voltage": 4.148732513845081,
+        "R_eq": 0.005997925412062677,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 153,
+        "rated capacity": 22.0,
+        "soc": 0.8838092366389264,
+        "temperature_K": 298.15,
+        "voltage": 4.13625698778502,
+        "R_eq": 0.005997902309236639,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 154,
+        "rated capacity": 22.0,
+        "soc": 0.9051408672899298,
+        "temperature_K": 298.15,
+        "voltage": 4.147776068336562,
+        "R_eq": 0.00599792364086729,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 155,
+        "rated capacity": 22.0,
+        "soc": 0.9477966680721651,
+        "temperature_K": 298.15,
+        "voltage": 4.170810200758969,
+        "R_eq": 0.0059979662966680725,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 156,
+        "rated capacity": 22.0,
+        "soc": 0.858128190073794,
+        "temperature_K": 298.15,
+        "voltage": 4.122389222639849,
+        "R_eq": 0.005997876628190074,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 157,
+        "rated capacity": 22.0,
+        "soc": 0.8949269762811233,
+        "temperature_K": 298.15,
+        "voltage": 4.142260567191806,
+        "R_eq": 0.005997913426976281,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 158,
+        "rated capacity": 22.0,
+        "soc": 0.8758251031827621,
+        "temperature_K": 298.15,
+        "voltage": 4.1319455557186915,
+        "R_eq": 0.005997894325103183,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 9,
+        "id": 159,
+        "rated capacity": 22.0,
+        "soc": 0.8474764938170977,
+        "temperature_K": 298.15,
+        "voltage": 4.116586836537575,
+        "R_eq": 0.005997865976493818,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 160,
+        "rated capacity": 22.0,
+        "soc": 0.8339347082619024,
+        "temperature_K": 298.15,
+        "voltage": 4.109003436626666,
+        "R_eq": 0.005997852434708262,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 161,
+        "rated capacity": 22.0,
+        "soc": 0.8571408362725705,
+        "temperature_K": 298.15,
+        "voltage": 4.121856051587188,
+        "R_eq": 0.005997875640836273,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 162,
+        "rated capacity": 22.0,
+        "soc": 0.9347893699072825,
+        "temperature_K": 298.15,
+        "voltage": 4.163786259749932,
+        "R_eq": 0.005997953289369908,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 163,
+        "rated capacity": 22.0,
+        "soc": 0.8412162485904869,
+        "temperature_K": 298.15,
+        "voltage": 4.113081099210673,
+        "R_eq": 0.005997859716248591,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 164,
+        "rated capacity": 22.0,
+        "soc": 0.9112992093802088,
+        "temperature_K": 298.15,
+        "voltage": 4.151101573065312,
+        "R_eq": 0.005997929799209381,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 165,
+        "rated capacity": 22.0,
+        "soc": 0.9469267234460049,
+        "temperature_K": 298.15,
+        "voltage": 4.1703404306608425,
+        "R_eq": 0.005997965426723447,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 166,
+        "rated capacity": 22.0,
+        "soc": 0.8446371090996674,
+        "temperature_K": 298.15,
+        "voltage": 4.114996781095814,
+        "R_eq": 0.0059978631371091,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 167,
+        "rated capacity": 22.0,
+        "soc": 0.9163791513311521,
+        "temperature_K": 298.15,
+        "voltage": 4.153844741718822,
+        "R_eq": 0.0059979348791513315,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 168,
+        "rated capacity": 22.0,
+        "soc": 0.9389339105524546,
+        "temperature_K": 298.15,
+        "voltage": 4.166024311698325,
+        "R_eq": 0.005997957433910553,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 169,
+        "rated capacity": 22.0,
+        "soc": 0.8520165113289954,
+        "temperature_K": 298.15,
+        "voltage": 4.119088916117658,
+        "R_eq": 0.005997870516511329,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 170,
+        "rated capacity": 22.0,
+        "soc": 0.8928377754565987,
+        "temperature_K": 298.15,
+        "voltage": 4.141132398746563,
+        "R_eq": 0.005997911337775457,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 171,
+        "rated capacity": 22.0,
+        "soc": 0.9415146070935922,
+        "temperature_K": 298.15,
+        "voltage": 4.167417887830539,
+        "R_eq": 0.005997960014607094,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 172,
+        "rated capacity": 22.0,
+        "soc": 0.9135313695488022,
+        "temperature_K": 298.15,
+        "voltage": 4.152306939556353,
+        "R_eq": 0.005997932031369549,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 173,
+        "rated capacity": 22.0,
+        "soc": 0.8487776980084764,
+        "temperature_K": 298.15,
+        "voltage": 4.1173155108847475,
+        "R_eq": 0.005997867277698009,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 174,
+        "rated capacity": 22.0,
+        "soc": 0.8821977289439507,
+        "temperature_K": 298.15,
+        "voltage": 4.135386773629733,
+        "R_eq": 0.0059979006977289445,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 10,
+        "id": 175,
+        "rated capacity": 22.0,
+        "soc": 0.8950115326868407,
+        "temperature_K": 298.15,
+        "voltage": 4.142306227650893,
+        "R_eq": 0.005997913511532687,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 176,
+        "rated capacity": 22.0,
+        "soc": 0.9349551567404719,
+        "temperature_K": 298.15,
+        "voltage": 4.163875784639854,
+        "R_eq": 0.005997953455156741,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 177,
+        "rated capacity": 22.0,
+        "soc": 0.8585227458214074,
+        "temperature_K": 298.15,
+        "voltage": 4.12260228274356,
+        "R_eq": 0.005997877022745822,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 178,
+        "rated capacity": 22.0,
+        "soc": 0.9034947428853889,
+        "temperature_K": 298.15,
+        "voltage": 4.1468871611581095,
+        "R_eq": 0.005997921994742886,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 179,
+        "rated capacity": 22.0,
+        "soc": 0.863492388281442,
+        "temperature_K": 298.15,
+        "voltage": 4.125285889671979,
+        "R_eq": 0.005997881992388282,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 180,
+        "rated capacity": 22.0,
+        "soc": 0.8685669371802337,
+        "temperature_K": 298.15,
+        "voltage": 4.128026146077326,
+        "R_eq": 0.005997887066937181,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 181,
+        "rated capacity": 22.0,
+        "soc": 0.8275683798011987,
+        "temperature_K": 298.15,
+        "voltage": 4.105438292688671,
+        "R_eq": 0.005997846068379801,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 182,
+        "rated capacity": 22.0,
+        "soc": 0.8996218289873159,
+        "temperature_K": 298.15,
+        "voltage": 4.14479578765315,
+        "R_eq": 0.0059979181218289875,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 183,
+        "rated capacity": 22.0,
+        "soc": 0.8976600532286015,
+        "temperature_K": 298.15,
+        "voltage": 4.143736428743445,
+        "R_eq": 0.005997916160053229,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 184,
+        "rated capacity": 22.0,
+        "soc": 0.8980636750260835,
+        "temperature_K": 298.15,
+        "voltage": 4.1439543845140845,
+        "R_eq": 0.005997916563675027,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 185,
+        "rated capacity": 22.0,
+        "soc": 0.9491884397758092,
+        "temperature_K": 298.15,
+        "voltage": 4.171561757478937,
+        "R_eq": 0.005997967688439776,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 186,
+        "rated capacity": 22.0,
+        "soc": 0.8496159184305438,
+        "temperature_K": 298.15,
+        "voltage": 4.1177849143211045,
+        "R_eq": 0.005997868115918431,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 187,
+        "rated capacity": 22.0,
+        "soc": 0.902906793849185,
+        "temperature_K": 298.15,
+        "voltage": 4.146569668678559,
+        "R_eq": 0.005997921406793849,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 188,
+        "rated capacity": 22.0,
+        "soc": 0.9154185804448085,
+        "temperature_K": 298.15,
+        "voltage": 4.153326033440196,
+        "R_eq": 0.005997933918580445,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 189,
+        "rated capacity": 22.0,
+        "soc": 0.8737844434929032,
+        "temperature_K": 298.15,
+        "voltage": 4.130843599486168,
+        "R_eq": 0.005997892284443493,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 190,
+        "rated capacity": 22.0,
+        "soc": 0.8805294351342612,
+        "temperature_K": 298.15,
+        "voltage": 4.134485894972501,
+        "R_eq": 0.005997899029435135,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 11,
+        "id": 191,
+        "rated capacity": 22.0,
+        "soc": 0.8632747819601484,
+        "temperature_K": 298.15,
+        "voltage": 4.12516838225848,
+        "R_eq": 0.005997881774781961,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 192,
+        "rated capacity": 22.0,
+        "soc": 0.9163513636030235,
+        "temperature_K": 298.15,
+        "voltage": 4.1538297363456325,
+        "R_eq": 0.005997934851363604,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 193,
+        "rated capacity": 22.0,
+        "soc": 0.839150307706738,
+        "temperature_K": 298.15,
+        "voltage": 4.111924172315773,
+        "R_eq": 0.0059978576503077075,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 194,
+        "rated capacity": 22.0,
+        "soc": 0.8948660048351147,
+        "temperature_K": 298.15,
+        "voltage": 4.142227642610962,
+        "R_eq": 0.0059979133660048355,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 195,
+        "rated capacity": 22.0,
+        "soc": 0.8461745720010992,
+        "temperature_K": 298.15,
+        "voltage": 4.1158577603206155,
+        "R_eq": 0.005997864674572002,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 196,
+        "rated capacity": 22.0,
+        "soc": 0.9281491333462378,
+        "temperature_K": 298.15,
+        "voltage": 4.160200532006968,
+        "R_eq": 0.0059979466491333466,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 197,
+        "rated capacity": 22.0,
+        "soc": 0.924997382176457,
+        "temperature_K": 298.15,
+        "voltage": 4.158498586375287,
+        "R_eq": 0.005997943497382177,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 198,
+        "rated capacity": 22.0,
+        "soc": 0.9459118841030184,
+        "temperature_K": 298.15,
+        "voltage": 4.169792417415629,
+        "R_eq": 0.005997964411884104,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 199,
+        "rated capacity": 22.0,
+        "soc": 0.9445087618076164,
+        "temperature_K": 298.15,
+        "voltage": 4.1690347313761125,
+        "R_eq": 0.005997963008761808,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 200,
+        "rated capacity": 22.0,
+        "soc": 0.8235835206900923,
+        "temperature_K": 298.15,
+        "voltage": 4.103206771586452,
+        "R_eq": 0.00599784208352069,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 201,
+        "rated capacity": 22.0,
+        "soc": 0.8695155205971861,
+        "temperature_K": 298.15,
+        "voltage": 4.128538381122481,
+        "R_eq": 0.005997888015520598,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 202,
+        "rated capacity": 22.0,
+        "soc": 0.9492726921898524,
+        "temperature_K": 298.15,
+        "voltage": 4.17160725378252,
+        "R_eq": 0.0059979677726921905,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 203,
+        "rated capacity": 22.0,
+        "soc": 0.9008869836005866,
+        "temperature_K": 298.15,
+        "voltage": 4.145478971144317,
+        "R_eq": 0.005997919386983601,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 204,
+        "rated capacity": 22.0,
+        "soc": 0.9184972224575731,
+        "temperature_K": 298.15,
+        "voltage": 4.154988500127089,
+        "R_eq": 0.005997936997222458,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 205,
+        "rated capacity": 22.0,
+        "soc": 0.8583668842289316,
+        "temperature_K": 298.15,
+        "voltage": 4.122518117483623,
+        "R_eq": 0.005997876866884229,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 206,
+        "rated capacity": 22.0,
+        "soc": 0.9323261058293336,
+        "temperature_K": 298.15,
+        "voltage": 4.16245609714784,
+        "R_eq": 0.00599795082610583,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 12,
+        "id": 207,
+        "rated capacity": 22.0,
+        "soc": 0.8998242854549864,
+        "temperature_K": 298.15,
+        "voltage": 4.1449051141456925,
+        "R_eq": 0.005997918324285456,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 208,
+        "rated capacity": 22.0,
+        "soc": 0.8233914489904979,
+        "temperature_K": 298.15,
+        "voltage": 4.103099211434679,
+        "R_eq": 0.005997841891448991,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 209,
+        "rated capacity": 22.0,
+        "soc": 0.8208497131418492,
+        "temperature_K": 298.15,
+        "voltage": 4.1016758393594355,
+        "R_eq": 0.005997839349713143,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 210,
+        "rated capacity": 22.0,
+        "soc": 0.8639901868380558,
+        "temperature_K": 298.15,
+        "voltage": 4.12555470089255,
+        "R_eq": 0.0059978824901868386,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 211,
+        "rated capacity": 22.0,
+        "soc": 0.8789882167754395,
+        "temperature_K": 298.15,
+        "voltage": 4.133653637058737,
+        "R_eq": 0.0059978974882167755,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 212,
+        "rated capacity": 22.0,
+        "soc": 0.9403461797704383,
+        "temperature_K": 298.15,
+        "voltage": 4.166786937076036,
+        "R_eq": 0.005997958846179771,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 213,
+        "rated capacity": 22.0,
+        "soc": 0.9302637616003978,
+        "temperature_K": 298.15,
+        "voltage": 4.161342431264215,
+        "R_eq": 0.005997948763761601,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 214,
+        "rated capacity": 22.0,
+        "soc": 0.9119151915224109,
+        "temperature_K": 298.15,
+        "voltage": 4.1514342034221015,
+        "R_eq": 0.005997930415191523,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 215,
+        "rated capacity": 22.0,
+        "soc": 0.903584224818322,
+        "temperature_K": 298.15,
+        "voltage": 4.1469354814018935,
+        "R_eq": 0.005997922084224819,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 216,
+        "rated capacity": 22.0,
+        "soc": 0.8835942798834688,
+        "temperature_K": 298.15,
+        "voltage": 4.136140911137073,
+        "R_eq": 0.005997902094279884,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 217,
+        "rated capacity": 22.0,
+        "soc": 0.8755208916765005,
+        "temperature_K": 298.15,
+        "voltage": 4.13178128150531,
+        "R_eq": 0.0059978940208916766,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 218,
+        "rated capacity": 22.0,
+        "soc": 0.9367447379749338,
+        "temperature_K": 298.15,
+        "voltage": 4.164842158506464,
+        "R_eq": 0.005997955244737976,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 219,
+        "rated capacity": 22.0,
+        "soc": 0.8374893239448066,
+        "temperature_K": 298.15,
+        "voltage": 4.110994021409092,
+        "R_eq": 0.0059978559893239455,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 220,
+        "rated capacity": 22.0,
+        "soc": 0.9206702190447881,
+        "temperature_K": 298.15,
+        "voltage": 4.156161918284186,
+        "R_eq": 0.005997939170219045,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 221,
+        "rated capacity": 22.0,
+        "soc": 0.9239087355163911,
+        "temperature_K": 298.15,
+        "voltage": 4.157910717178851,
+        "R_eq": 0.005997942408735517,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 222,
+        "rated capacity": 22.0,
+        "soc": 0.9188085038683464,
+        "temperature_K": 298.15,
+        "voltage": 4.155156592088907,
+        "R_eq": 0.005997937308503868,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 13,
+        "id": 223,
+        "rated capacity": 22.0,
+        "soc": 0.9409827644799759,
+        "temperature_K": 298.15,
+        "voltage": 4.167130692819186,
+        "R_eq": 0.00599795948276448,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 224,
+        "rated capacity": 22.0,
+        "soc": 0.9169839794246166,
+        "temperature_K": 298.15,
+        "voltage": 4.154171348889292,
+        "R_eq": 0.005997935483979425,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 225,
+        "rated capacity": 22.0,
+        "soc": 0.92151874655662,
+        "temperature_K": 298.15,
+        "voltage": 4.156620123140574,
+        "R_eq": 0.005997940018746557,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 226,
+        "rated capacity": 22.0,
+        "soc": 0.8407281115248415,
+        "temperature_K": 298.15,
+        "voltage": 4.112807742453912,
+        "R_eq": 0.005997859228111525,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 227,
+        "rated capacity": 22.0,
+        "soc": 0.9023311992904007,
+        "temperature_K": 298.15,
+        "voltage": 4.146258847616816,
+        "R_eq": 0.005997920831199291,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 228,
+        "rated capacity": 22.0,
+        "soc": 0.8247094647124041,
+        "temperature_K": 298.15,
+        "voltage": 4.103837300238946,
+        "R_eq": 0.005997843209464713,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 229,
+        "rated capacity": 22.0,
+        "soc": 0.8873869557366121,
+        "temperature_K": 298.15,
+        "voltage": 4.13818895609777,
+        "R_eq": 0.005997905886955737,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 230,
+        "rated capacity": 22.0,
+        "soc": 0.8965466009789722,
+        "temperature_K": 298.15,
+        "voltage": 4.143135164528645,
+        "R_eq": 0.0059979150466009795,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 231,
+        "rated capacity": 22.0,
+        "soc": 0.8867905160792702,
+        "temperature_K": 298.15,
+        "voltage": 4.1378668786828054,
+        "R_eq": 0.0059979052905160795,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 232,
+        "rated capacity": 22.0,
+        "soc": 0.8377329474837287,
+        "temperature_K": 298.15,
+        "voltage": 4.111130450590888,
+        "R_eq": 0.005997856232947484,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 233,
+        "rated capacity": 22.0,
+        "soc": 0.8520654605357263,
+        "temperature_K": 298.15,
+        "voltage": 4.119115348689292,
+        "R_eq": 0.005997870565460536,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 234,
+        "rated capacity": 22.0,
+        "soc": 0.9128681073194405,
+        "temperature_K": 298.15,
+        "voltage": 4.151948777952497,
+        "R_eq": 0.0059979313681073195,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 235,
+        "rated capacity": 22.0,
+        "soc": 0.9430181351803057,
+        "temperature_K": 298.15,
+        "voltage": 4.168229792997365,
+        "R_eq": 0.005997961518135181,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 236,
+        "rated capacity": 22.0,
+        "soc": 0.852449381841894,
+        "temperature_K": 298.15,
+        "voltage": 4.119322666194623,
+        "R_eq": 0.005997870949381842,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 237,
+        "rated capacity": 22.0,
+        "soc": 0.9441466996712342,
+        "temperature_K": 298.15,
+        "voltage": 4.168839217822466,
+        "R_eq": 0.005997962646699672,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 238,
+        "rated capacity": 22.0,
+        "soc": 0.8616157297649654,
+        "temperature_K": 298.15,
+        "voltage": 4.1242724940730815,
+        "R_eq": 0.005997880115729766,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 14,
+        "id": 239,
+        "rated capacity": 22.0,
+        "soc": 0.8801452714761839,
+        "temperature_K": 298.15,
+        "voltage": 4.134278446597139,
+        "R_eq": 0.005997898645271477,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 240,
+        "rated capacity": 22.0,
+        "soc": 0.8398173688951835,
+        "temperature_K": 298.15,
+        "voltage": 4.112297726581303,
+        "R_eq": 0.005997858317368896,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 241,
+        "rated capacity": 22.0,
+        "soc": 0.9466977302711753,
+        "temperature_K": 298.15,
+        "voltage": 4.170216774346434,
+        "R_eq": 0.0059979651977302715,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 242,
+        "rated capacity": 22.0,
+        "soc": 0.9415852051908946,
+        "temperature_K": 298.15,
+        "voltage": 4.1674560108030825,
+        "R_eq": 0.005997960085205191,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 243,
+        "rated capacity": 22.0,
+        "soc": 0.8250888204092935,
+        "temperature_K": 298.15,
+        "voltage": 4.104049739429205,
+        "R_eq": 0.00599784358882041,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 244,
+        "rated capacity": 22.0,
+        "soc": 0.9357508998673758,
+        "temperature_K": 298.15,
+        "voltage": 4.164305485928383,
+        "R_eq": 0.0059979542508998675,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 245,
+        "rated capacity": 22.0,
+        "soc": 0.8555650344427158,
+        "temperature_K": 298.15,
+        "voltage": 4.121005118599067,
+        "R_eq": 0.005997874065034443,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 246,
+        "rated capacity": 22.0,
+        "soc": 0.9402077257652347,
+        "temperature_K": 298.15,
+        "voltage": 4.166712171913226,
+        "R_eq": 0.005997958707725765,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 247,
+        "rated capacity": 22.0,
+        "soc": 0.9208398765012125,
+        "temperature_K": 298.15,
+        "voltage": 4.156253533310655,
+        "R_eq": 0.005997939339876502,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 248,
+        "rated capacity": 22.0,
+        "soc": 0.8918019883601459,
+        "temperature_K": 298.15,
+        "voltage": 4.140573073714479,
+        "R_eq": 0.005997910301988361,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 249,
+        "rated capacity": 22.0,
+        "soc": 0.8200464059905586,
+        "temperature_K": 298.15,
+        "voltage": 4.101225987354713,
+        "R_eq": 0.005997838546405991,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 250,
+        "rated capacity": 22.0,
+        "soc": 0.8840938638966473,
+        "temperature_K": 298.15,
+        "voltage": 4.136410686504189,
+        "R_eq": 0.005997902593863897,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 251,
+        "rated capacity": 22.0,
+        "soc": 0.8510401723655452,
+        "temperature_K": 298.15,
+        "voltage": 4.118561693077394,
+        "R_eq": 0.005997869540172366,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 252,
+        "rated capacity": 22.0,
+        "soc": 0.9166988900213413,
+        "temperature_K": 298.15,
+        "voltage": 4.154017400611524,
+        "R_eq": 0.005997935198890022,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 253,
+        "rated capacity": 22.0,
+        "soc": 0.8992275016884695,
+        "temperature_K": 298.15,
+        "voltage": 4.144582850911773,
+        "R_eq": 0.005997917727501689,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 254,
+        "rated capacity": 22.0,
+        "soc": 0.854739311857171,
+        "temperature_K": 298.15,
+        "voltage": 4.120559228402873,
+        "R_eq": 0.005997873239311858,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 15,
+        "id": 255,
+        "rated capacity": 22.0,
+        "soc": 0.8422712251700388,
+        "temperature_K": 298.15,
+        "voltage": 4.113671886095222,
+        "R_eq": 0.00599786077122517,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 256,
+        "rated capacity": 22.0,
+        "soc": 0.8267948801830657,
+        "temperature_K": 298.15,
+        "voltage": 4.105005132902517,
+        "R_eq": 0.0059978452948801836,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 257,
+        "rated capacity": 22.0,
+        "soc": 0.8787701076129601,
+        "temperature_K": 298.15,
+        "voltage": 4.133535858110998,
+        "R_eq": 0.005997897270107614,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 258,
+        "rated capacity": 22.0,
+        "soc": 0.9090013447094455,
+        "temperature_K": 298.15,
+        "voltage": 4.1498607261431,
+        "R_eq": 0.00599792750134471,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 259,
+        "rated capacity": 22.0,
+        "soc": 0.9076399052344415,
+        "temperature_K": 298.15,
+        "voltage": 4.149125548826598,
+        "R_eq": 0.005997926139905235,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 260,
+        "rated capacity": 22.0,
+        "soc": 0.8685567539243786,
+        "temperature_K": 298.15,
+        "voltage": 4.128020647119165,
+        "R_eq": 0.005997887056753925,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 261,
+        "rated capacity": 22.0,
+        "soc": 0.9010991955590931,
+        "temperature_K": 298.15,
+        "voltage": 4.14559356560191,
+        "R_eq": 0.0059979195991955595,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 262,
+        "rated capacity": 22.0,
+        "soc": 0.9008552007320707,
+        "temperature_K": 298.15,
+        "voltage": 4.145461808395318,
+        "R_eq": 0.0059979193552007325,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 263,
+        "rated capacity": 22.0,
+        "soc": 0.8850088022381616,
+        "temperature_K": 298.15,
+        "voltage": 4.136904753208607,
+        "R_eq": 0.005997903508802239,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 264,
+        "rated capacity": 22.0,
+        "soc": 0.855150261296573,
+        "temperature_K": 298.15,
+        "voltage": 4.120781141100149,
+        "R_eq": 0.005997873650261297,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 265,
+        "rated capacity": 22.0,
+        "soc": 0.866087015302088,
+        "temperature_K": 298.15,
+        "voltage": 4.126686988263128,
+        "R_eq": 0.005997884587015303,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 266,
+        "rated capacity": 22.0,
+        "soc": 0.8941012733440394,
+        "temperature_K": 298.15,
+        "voltage": 4.141814687605781,
+        "R_eq": 0.005997912601273345,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 267,
+        "rated capacity": 22.0,
+        "soc": 0.8716377870186545,
+        "temperature_K": 298.15,
+        "voltage": 4.129684404990074,
+        "R_eq": 0.005997890137787019,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 268,
+        "rated capacity": 22.0,
+        "soc": 0.8413972114868288,
+        "temperature_K": 298.15,
+        "voltage": 4.1131824384326245,
+        "R_eq": 0.005997859897211487,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 269,
+        "rated capacity": 22.0,
+        "soc": 0.8572787287856494,
+        "temperature_K": 298.15,
+        "voltage": 4.1219305135442506,
+        "R_eq": 0.005997875778728786,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 270,
+        "rated capacity": 22.0,
+        "soc": 0.8721381826631693,
+        "temperature_K": 298.15,
+        "voltage": 4.129954618638111,
+        "R_eq": 0.0059978906381826635,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 16,
+        "id": 271,
+        "rated capacity": 22.0,
+        "soc": 0.8498500144500861,
+        "temperature_K": 298.15,
+        "voltage": 4.117916008092049,
+        "R_eq": 0.0059978683500144505,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 272,
+        "rated capacity": 22.0,
+        "soc": 0.9338036757363606,
+        "temperature_K": 298.15,
+        "voltage": 4.163253984897635,
+        "R_eq": 0.0059979523036757364,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 273,
+        "rated capacity": 22.0,
+        "soc": 0.8579742790666205,
+        "temperature_K": 298.15,
+        "voltage": 4.122306110695975,
+        "R_eq": 0.005997876474279067,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 274,
+        "rated capacity": 22.0,
+        "soc": 0.9083689232141723,
+        "temperature_K": 298.15,
+        "voltage": 4.149519218535652,
+        "R_eq": 0.005997926868923214,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 275,
+        "rated capacity": 22.0,
+        "soc": 0.9308385138727556,
+        "temperature_K": 298.15,
+        "voltage": 4.161652797491287,
+        "R_eq": 0.005997949338513873,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 276,
+        "rated capacity": 22.0,
+        "soc": 0.9101600325887098,
+        "temperature_K": 298.15,
+        "voltage": 4.150486417597903,
+        "R_eq": 0.005997928660032589,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 277,
+        "rated capacity": 22.0,
+        "soc": 0.8252217064879841,
+        "temperature_K": 298.15,
+        "voltage": 4.104124155633271,
+        "R_eq": 0.005997843721706488,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 278,
+        "rated capacity": 22.0,
+        "soc": 0.8212480065604675,
+        "temperature_K": 298.15,
+        "voltage": 4.1018988836738615,
+        "R_eq": 0.005997839748006561,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 279,
+        "rated capacity": 22.0,
+        "soc": 0.9155629420241655,
+        "temperature_K": 298.15,
+        "voltage": 4.153403988693049,
+        "R_eq": 0.005997934062942025,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 280,
+        "rated capacity": 22.0,
+        "soc": 0.9194441200264503,
+        "temperature_K": 298.15,
+        "voltage": 4.1554998248142825,
+        "R_eq": 0.005997937944120027,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 281,
+        "rated capacity": 22.0,
+        "soc": 0.8558358565338381,
+        "temperature_K": 298.15,
+        "voltage": 4.1211513625282725,
+        "R_eq": 0.005997874335856534,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 282,
+        "rated capacity": 22.0,
+        "soc": 0.8915546232901601,
+        "temperature_K": 298.15,
+        "voltage": 4.140439496576686,
+        "R_eq": 0.005997910054623291,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 283,
+        "rated capacity": 22.0,
+        "soc": 0.9065083223218613,
+        "temperature_K": 298.15,
+        "voltage": 4.148514494053805,
+        "R_eq": 0.005997925008322322,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 284,
+        "rated capacity": 22.0,
+        "soc": 0.9437858638394618,
+        "temperature_K": 298.15,
+        "voltage": 4.168644366473309,
+        "R_eq": 0.0059979622858638395,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 285,
+        "rated capacity": 22.0,
+        "soc": 0.8967051258467749,
+        "temperature_K": 298.15,
+        "voltage": 4.143220767957258,
+        "R_eq": 0.005997915205125847,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 286,
+        "rated capacity": 22.0,
+        "soc": 0.9337321781945537,
+        "temperature_K": 298.15,
+        "voltage": 4.163215376225058,
+        "R_eq": 0.005997952232178195,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 17,
+        "id": 287,
+        "rated capacity": 22.0,
+        "soc": 0.8661967631747458,
+        "temperature_K": 298.15,
+        "voltage": 4.126746252114363,
+        "R_eq": 0.005997884696763175,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 288,
+        "rated capacity": 22.0,
+        "soc": 0.8452085746496926,
+        "temperature_K": 298.15,
+        "voltage": 4.115316801803828,
+        "R_eq": 0.00599786370857465,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 289,
+        "rated capacity": 22.0,
+        "soc": 0.8249489702151498,
+        "temperature_K": 298.15,
+        "voltage": 4.103971423320484,
+        "R_eq": 0.005997843448970215,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 290,
+        "rated capacity": 22.0,
+        "soc": 0.8455452684904127,
+        "temperature_K": 298.15,
+        "voltage": 4.115505350354631,
+        "R_eq": 0.005997864045268491,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 291,
+        "rated capacity": 22.0,
+        "soc": 0.8303929317209443,
+        "temperature_K": 298.15,
+        "voltage": 4.107020041763729,
+        "R_eq": 0.005997848892931722,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 292,
+        "rated capacity": 22.0,
+        "soc": 0.8490677878374904,
+        "temperature_K": 298.15,
+        "voltage": 4.117477961188995,
+        "R_eq": 0.005997867567787838,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 293,
+        "rated capacity": 22.0,
+        "soc": 0.8541415773883503,
+        "temperature_K": 298.15,
+        "voltage": 4.120236451789709,
+        "R_eq": 0.005997872641577389,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 294,
+        "rated capacity": 22.0,
+        "soc": 0.8474609578478279,
+        "temperature_K": 298.15,
+        "voltage": 4.116578136394784,
+        "R_eq": 0.005997865960957848,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 295,
+        "rated capacity": 22.0,
+        "soc": 0.9402032344334871,
+        "temperature_K": 298.15,
+        "voltage": 4.1667097465940826,
+        "R_eq": 0.005997958703234434,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 296,
+        "rated capacity": 22.0,
+        "soc": 0.9095096667833262,
+        "temperature_K": 298.15,
+        "voltage": 4.150135220062996,
+        "R_eq": 0.0059979280096667835,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 297,
+        "rated capacity": 22.0,
+        "soc": 0.930388092472037,
+        "temperature_K": 298.15,
+        "voltage": 4.1614095699349,
+        "R_eq": 0.005997948888092472,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 298,
+        "rated capacity": 22.0,
+        "soc": 0.8575138873485204,
+        "temperature_K": 298.15,
+        "voltage": 4.122057499168201,
+        "R_eq": 0.005997876013887349,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 299,
+        "rated capacity": 22.0,
+        "soc": 0.9100066500392956,
+        "temperature_K": 298.15,
+        "voltage": 4.150403591021219,
+        "R_eq": 0.00599792850665004,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 300,
+        "rated capacity": 22.0,
+        "soc": 0.9270165476468748,
+        "temperature_K": 298.15,
+        "voltage": 4.159588935729312,
+        "R_eq": 0.005997945516547647,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 301,
+        "rated capacity": 22.0,
+        "soc": 0.842115902413656,
+        "temperature_K": 298.15,
+        "voltage": 4.113584905351647,
+        "R_eq": 0.005997860615902414,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 302,
+        "rated capacity": 22.0,
+        "soc": 0.8467150763388559,
+        "temperature_K": 298.15,
+        "voltage": 4.116160442749759,
+        "R_eq": 0.005997865215076339,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 18,
+        "id": 303,
+        "rated capacity": 22.0,
+        "soc": 0.866458755800911,
+        "temperature_K": 298.15,
+        "voltage": 4.126887728132492,
+        "R_eq": 0.0059978849587558015,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 304,
+        "rated capacity": 22.0,
+        "soc": 0.8479811662031396,
+        "temperature_K": 298.15,
+        "voltage": 4.116869453073758,
+        "R_eq": 0.005997866481166203,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 305,
+        "rated capacity": 22.0,
+        "soc": 0.9440924384935923,
+        "temperature_K": 298.15,
+        "voltage": 4.16880991678654,
+        "R_eq": 0.005997962592438494,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 306,
+        "rated capacity": 22.0,
+        "soc": 0.9098319502897511,
+        "temperature_K": 298.15,
+        "voltage": 4.150309253156466,
+        "R_eq": 0.00599792833195029,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 307,
+        "rated capacity": 22.0,
+        "soc": 0.8909381004133559,
+        "temperature_K": 298.15,
+        "voltage": 4.1401065742232115,
+        "R_eq": 0.005997909438100414,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 308,
+        "rated capacity": 22.0,
+        "soc": 0.8913017289271941,
+        "temperature_K": 298.15,
+        "voltage": 4.140302933620685,
+        "R_eq": 0.005997909801728927,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 309,
+        "rated capacity": 22.0,
+        "soc": 0.8358580845577911,
+        "temperature_K": 298.15,
+        "voltage": 4.1100805273523635,
+        "R_eq": 0.005997854358084558,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 310,
+        "rated capacity": 22.0,
+        "soc": 0.8202813794033195,
+        "temperature_K": 298.15,
+        "voltage": 4.101357572465859,
+        "R_eq": 0.005997838781379404,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 311,
+        "rated capacity": 22.0,
+        "soc": 0.8583944276787436,
+        "temperature_K": 298.15,
+        "voltage": 4.122532990946522,
+        "R_eq": 0.0059978768944276796,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 312,
+        "rated capacity": 22.0,
+        "soc": 0.8693293595630515,
+        "temperature_K": 298.15,
+        "voltage": 4.128437854164048,
+        "R_eq": 0.005997887829359563,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 313,
+        "rated capacity": 22.0,
+        "soc": 0.8273489109776131,
+        "temperature_K": 298.15,
+        "voltage": 4.105315390147464,
+        "R_eq": 0.005997845848910978,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 314,
+        "rated capacity": 22.0,
+        "soc": 0.8836274566398431,
+        "temperature_K": 298.15,
+        "voltage": 4.136158826585515,
+        "R_eq": 0.00599790212745664,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 315,
+        "rated capacity": 22.0,
+        "soc": 0.9053094371202107,
+        "temperature_K": 298.15,
+        "voltage": 4.147867096044913,
+        "R_eq": 0.00599792380943712,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 316,
+        "rated capacity": 22.0,
+        "soc": 0.8337786449074527,
+        "temperature_K": 298.15,
+        "voltage": 4.1089160411481735,
+        "R_eq": 0.005997852278644908,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 317,
+        "rated capacity": 22.0,
+        "soc": 0.9012370484934427,
+        "temperature_K": 298.15,
+        "voltage": 4.145668006186459,
+        "R_eq": 0.005997919737048493,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 318,
+        "rated capacity": 22.0,
+        "soc": 0.8593686671785439,
+        "temperature_K": 298.15,
+        "voltage": 4.1230590802764135,
+        "R_eq": 0.0059978778686671785,
+        "is_cut_off": false
+    },
+    {
+        "module_id": 19,
+        "id": 319,
+        "rated capacity": 22.0,
+        "soc": 0.8499452621675301,
+        "temperature_K": 298.15,
+        "voltage": 4.117969346813817,
+        "R_eq": 0.005997868445262168,
+        "is_cut_off": false
+    }
+]
