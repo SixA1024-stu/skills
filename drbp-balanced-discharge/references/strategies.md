@@ -1,11 +1,11 @@
+---
 # DRBP Strategy Definitions
 
 This document defines the available strategies for Dynamic Reconfigurable Battery Pack (DRBP) balanced discharge management.
-
+---
 ## Overview
 
 Strategies determine how battery cells are selected and connected to achieve the primary goal: **balanced discharge** where all cells approach SOC=0 simultaneously at the end of discharge cycles.
-
 Each strategy defines:
 1. **Objective**: Primary optimization goal
 2. **Cell selection weights**: How to prioritize cells based on their state

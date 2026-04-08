@@ -1,7 +1,8 @@
+---
 # LLM Prompt Templates
 
 This document contains prompt templates for Large Language Model (LLM) interactions in the DRBP system. These prompts are designed to elicit consistent, structured responses for battery management decisions.
-
+---
 ## Prompt Design Principles
 
 ### 1. Structured Output

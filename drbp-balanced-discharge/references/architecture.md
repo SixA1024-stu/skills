@@ -1,7 +1,8 @@
+---
 # DRBP Architecture Specification
 
 ## System Overview
-
+---
 Dynamic Reconfigurable Battery Pack (DRBP) is an advanced battery management system that enables real-time reconfiguration of battery cell connections to optimize performance for varying operational conditions.
 
 ### Key Innovations

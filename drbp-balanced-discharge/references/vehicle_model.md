@@ -1,7 +1,8 @@
+---
 # Vehicle Dynamics Model
 
 This document describes the vehicle dynamics model used to calculate power requirements for the DRBP system.
-
+---
 ## Overview
 
 The vehicle model converts navigation information (speed, gradient, etc.) into electrical power requirements at the battery terminals. This is critical for selecting appropriate battery configurations that can meet the actual power demand.

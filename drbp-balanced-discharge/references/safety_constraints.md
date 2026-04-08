@@ -1,7 +1,8 @@
+---
 # Safety Constraints and Limits
 
 This document defines all safety constraints for the Dynamic Reconfigurable Battery Pack (DRBP) system. These constraints MUST NOT be violated under any circumstances.
-
+---
 ## Philosophy
 
 **Safety First Principle**: No performance optimization or efficiency gain justifies violating safety constraints.
