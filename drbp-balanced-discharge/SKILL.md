@@ -25,12 +25,8 @@ graph TD
     B --> C[Calculate Power Requirements]
     C --> D[Select Cells with Bucket Effect Protection]
     D --> E[Determine Series/Parallel Topology]
-    E --> F[Safety Validation]
-    F --> G{Validation Passed?}
-    G -->|Yes| H[Generate Structured Output]
-    G -->|No| I[Fallback: Highest SOC Cells]
-    I --> H
-    H --> J[Output to BMS/Log]
+    E --> H
+    H --> J[Output]
 ```
 
 ## Step 1: Input Data Preparation
@@ -72,7 +68,7 @@ Call LLM API with a structured prompt containing:
 - See `references/vehicle_model.md`
 - First calculate the required current, then calculate the voltage based on the current and power
 
-**Output:** `v_req` (V) and `i_req` (A) based on:
+**Output:** `v_req` (V) and `i_req` (A), based on:
 
 - Constant power demand
 - Vehicle efficiency model
