@@ -80,14 +80,14 @@ Each strategy defines:
 **Cell selection weights**:
 ```json
 {
-  "temperature": 0.8,  // Higher temperature cells preferred (to cool them)
+  "temperature": -0.8,  // Higher temperature cells preferred (to cool them)
   "soc": 0.2,         // Moderate SOC preference
-  "internal_resistance": -0.1,
+  "internal_resistance": 0.0,
   "soh": 0.0
 }
 ```
 
-**Topology preference**: More parallel branches to spread heat generation, moderate series count.
+**Topology preference**: Prefer batteries with lower current temperature and better heat dissipation conditions to undertake the discharging task.
 
 **Safety considerations**:
 - Monitor temperature rise during discharge
