@@ -1,0 +1,126 @@
+{
+  "status": true,
+  "v_req": 296.0,
+  "i_req": 86.1,
+  "selected_cells": [
+    {
+      "mod_id": 0,
+      "cells": [[0, 3, 13, 5], [7, 11, 1, 9]]
+    },
+    {
+      "mod_id": 1,
+      "cells": [[10, 5, 2, 14], [0, 7, 12, 4]]
+    },
+    {
+      "mod_id": 2,
+      "cells": [[3, 8, 11, 6], [1, 9, 14, 7]]
+    },
+    {
+      "mod_id": 3,
+      "cells": [[5, 12, 2, 10], [4, 13, 0, 8]]
+    },
+    {
+      "mod_id": 4,
+      "cells": [[7, 1, 9, 14], [2, 10, 5, 12]]
+    },
+    {
+      "mod_id": 5,
+      "cells": [[3, 11, 6, 13], [0, 8, 4, 15]]
+    },
+    {
+      "mod_id": 6,
+      "cells": [[2, 9, 12, 5], [1, 10, 7, 14]]
+    },
+    {
+      "mod_id": 7,
+      "cells": [[4, 13, 0, 8], [3, 11, 6, 15]]
+    },
+    {
+      "mod_id": 8,
+      "cells": [[5, 12, 2, 10], [1, 9, 14, 7]]
+    },
+    {
+      "mod_id": 9,
+      "cells": [[3, 8, 11, 6], [0, 7, 13, 4]]
+    },
+    {
+      "mod_id": 10,
+      "cells": [[2, 10, 5, 12], [1, 9, 14, 7]]
+    },
+    {
+      "mod_id": 11,
+      "cells": [[4, 13, 0, 8], [3, 11, 6, 15]]
+    },
+    {
+      "mod_id": 12,
+      "cells": [[5, 12, 2, 10], [1, 9, 14, 7]]
+    },
+    {
+      "mod_id": 13,
+      "cells": [[3, 8, 11, 6], [0, 7, 13, 4]]
+    },
+    {
+      "mod_id": 14,
+      "cells": [[2, 10, 5, 12], [1, 9, 14, 7]]
+    },
+    {
+      "mod_id": 15,
+      "cells": [[4, 13, 0, 8], [3, 11, 6, 15]]
+    },
+    {
+      "mod_id": 16,
+      "cells": [[5, 12, 2, 10], [1, 9, 14, 7]]
+    },
+    {
+      "mod_id": 17,
+      "cells": [[3, 8, 11, 6], [0, 7, 13, 4]]
+    },
+    {
+      "mod_id": 18,
+      "cells": [[2, 10, 5, 12], [1, 9, 14, 7]]
+    },
+    {
+      "mod_id": 19,
+      "cells": [[4, 13, 0, 8], [3, 11, 6, 15]]
+    }
+  ],
+  "topology": {
+    "series_per_module": 4,
+    "parallel_per_module": 2,
+    "module_voltage": 14.8,
+    "total_voltage": 296.0,
+    "module_current": 86.1,
+    "max_current": 172.2,
+    "voltage_match_ratio": 0.0,
+    "current_margin_ratio": 0.149,
+    "cells_used": 8
+  },
+  "safety_check": {
+    "voltage_pass": true,
+    "current_pass": true,
+    "temperature_pass": true,
+    "soc_margin": 0.08
+  },
+  "reason": "采用均衡策略，选择每个模组SOC最高的8个电芯，组成4串2并拓扑。电压匹配度100%，电流裕量14.9%，最弱电芯SOC裕量8%。满足25.5kW恒定功率10分钟放电需求。",
+  "strategy_used": {
+    "strategy": "equilibrium",
+    "reason": "SOC标准差较大(0.12)，需要快速收敛以达成均衡放电目标",
+    "parameters": {
+      "cells_per_module": 8,
+      "priority_weights": {
+        "soc": 0.9,
+        "soh": 0.05,
+        "temperature": -0.05,
+        "internal_resistance": -0.05,
+        "cycles": -0.05
+      }
+    }
+  },
+  "execution_info": {
+    "timestamp": "2026-04-08T10:30:15+08:00",
+    "processing_time_ms": 85,
+    "llm_used": true,
+    "fallback_triggered": false,
+    "output_version": "1.0"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "segment_id": "nav_20260408_103000",
+  "duration_min": 10,
+  "required_power_kw": 25.5,
+  "power_source": "constant_power",
+  "environment": {
+    "ambient_temp_c": 25.0,
+    "road_gradient_percent": 2.5,
+    "road_condition": "dry",
+    "elevation_m": 120,
+    "wind_speed_mps": 3.5,
+    "wind_direction": "headwind"
+  },
+  "vehicle": {
+    "mass_kg": 1850,
+    "frontal_area_m2": 2.4,
+    "drag_coefficient": 0.28,
+    "rolling_resistance": 0.012,
+    "efficiency": 0.92,
+    "auxiliary_power_w": 500,
+    "driving_mode": "normal",
+    "cargo_kg": 150,
+    "passenger_count": 2
+  },
+  "route_info": {
+    "segment_length_m": 10000,
+    "average_speed_kmh": 60,
+    "max_speed_kmh": 70,
+    "segment_type": "highway",
+    "traffic_condition": "light",
+    "next_segment_power_estimate_kw": 22.0
+  },
+  "historical_context": {
+    "previous_segment_power_kw": 22.1,
+    "previous_duration_min": 10,
+    "previous_strategy": "high_energy",
+    "previous_cells_used": 320,
+    "previous_soc_change": -0.15,
+    "previous_temperature_rise": 3.2
+  },
+  "safety_margins": {
+    "power_margin_percent": 10,
+    "voltage_margin_percent": 5,
+    "current_margin_percent": 15,
+    "soc_margin": 0.05
+  }
+}
