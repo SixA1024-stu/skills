@@ -342,13 +342,13 @@ If LLM decision fails or safety validation fails:
 Final output format:
 ```json
 {
-  "status": true,
-  "v_req": 300.5,
-  "i_req": 85.2,
+  "status": boolean, //电池组是否还能运行
+  "v_req": float, //需求电压
+  "i_req": float, //需求电流
   "selected_cells": [
     {
       "mod_id": 0,
-      "cells": [[1, 2, 3, 4], [5, 6, 7, 8]]  // 4串2并
+      "cells": [[...], [...]]  // 每一个子列表为一个并联支路
     },
     // ... 19 more modules
   ],
