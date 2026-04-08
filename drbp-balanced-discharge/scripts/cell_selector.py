@@ -310,13 +310,12 @@ def main():
             discharge_ah_per_cell, constraints
         )
 
-        # Extract cell IDs
-        cell_ids = [cell["cell_id"] for cell in selected_cells]
+        # Extract cell IDs, removing the module ID prefix (keep only the original cell id)
+        cell_ids = [cell["cell_id"].split('_', 1)[-1] for cell in selected_cells]
 
         all_selected.append({
             "mod_id": mod_id,
-            "selected_cell_ids": cell_ids,
-            "selected_cells": selected_cells  # full data for debugging
+            "selected_cell_ids": cell_ids
         })
 
         all_reasons.append({
@@ -336,7 +335,6 @@ def main():
         "cells_per_module_actual": [len(item["selected_cell_ids"]) for item in all_selected],
         "discharge_ah_per_cell": round(discharge_ah_per_cell, 4),
         "selected_modules": all_selected,
-        "reasons": all_reasons,
         "nominal_voltage": nominal_voltage,
         "cell_capacity_ah": cell_capacity_ah
     }
@@ -345,13 +343,6 @@ def main():
         result["error"] = "Some modules could not select enough safe cells"
 
     # Output
-    # if args.output:
-    #     with open(args.output, 'w', encoding='utf-8') as f:
-    #         json.dump(result, f, indent=2, ensure_ascii=False)
-    #     if args.verbose:
-    #         print(f"Results saved to {args.output}")
-    # else:
-    #     print(json.dumps(result, indent=2, ensure_ascii=False))
     print(json.dumps(result))
     return 0
 
