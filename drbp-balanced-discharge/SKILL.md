@@ -122,7 +122,7 @@ Final output format:
   "selected_cells": [
     {
       "mod_id": int,  //模组id
-      "cells": [[...], [...]]  // 二维列表，每一个子列表为一个并联支路
+      "cells": [[...], [...]]  // 二维列表，每一个子列表为一个并联支路，比如这是n串2并
     },
     // ... 19 more modules
   ],
