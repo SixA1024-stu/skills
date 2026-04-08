@@ -121,12 +121,12 @@ Final output format:
 ```json
 {
   "status": boolean, //电池组是否还能运行
-  "v_req": float, //需求电压
-  "i_req": float, //需求电流
+  "v_req": float, //需求电压，根据电流和功率计算
+  "i_req": float, //需求电流,先适配电流
   "selected_cells": [
     {
-      "mod_id": 0,
-      "cells": [[...], [...]]  // 每一个子列表为一个并联支路
+      "mod_id": int,  //模组id
+      "cells": [[...], [...]]  // 二维列表，每一个子列表为一个并联支路
     },
     // ... 19 more modules
   ],
