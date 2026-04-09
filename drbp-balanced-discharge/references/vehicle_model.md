@@ -133,35 +133,6 @@ Simplified model for constant speed:
 - Reduced: 90% at light load (<30%)
 - Reduced: 92% at heavy load (>80%)
 
-## Auxiliary Power Consumption
-
-### Constant Loads
-
-| System | Power | Notes |
-|--------|-------|-------|
-| Battery management | 100W | Always on |
-| Vehicle computers | 200W | Always on |
-| Instrumentation | 50W | Always on |
-| **Subtotal** | **350W** | |
-
-### Variable Loads
-
-| System | Min Power | Max Power | Notes |
-|--------|-----------|-----------|-------|
-| Climate control | 500W | 6000W | Depends on settings |
-| Lights | 100W | 500W | Time of day, conditions |
-| Infotainment | 50W | 300W | User dependent |
-| Power steering | 50W | 200W | Speed dependent |
-| Brake system | 20W | 100W | Regenerative braking active |
-| **Subtotal** | **720W** | **7100W** | |
-
-### Typical Scenarios
-
-| Scenario | Total Auxiliary Power | Notes |
-|----------|----------------------|-------|
-| Night driving, mild weather | 800-1200W | Lights + basic systems |
-| Daytime, AC on | 1500-3000W | Moderate cooling |
-| Extreme weather | 4000-7000W | Max heating/cooling |
 
 ## Vehicle Parameters Database
 
