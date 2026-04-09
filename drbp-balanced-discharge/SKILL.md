@@ -67,7 +67,7 @@ Call LLM API with a structured prompt containing:
 - See `references/vehicle_model.md`
 - First calculate `i_req`, then calculate `v_req` based on the current and power
 
-**Output:** `v_req` (V) and `i_req` (A), based on:
+**Output:** `v_req` (V) and `i_req` (A) (The discharge current of each cell must not exceed the continuous discharge current of 37.7A), based on:
 
 - The discharge current of each cell must not exceed the continuous discharge current of 37.7A
 - Constant power demand
