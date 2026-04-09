@@ -1,0 +1,58 @@
+{
+  "timestamp": "2026-04-08T10:30:00+08:00",
+  "total_modules": 20,
+  "cells_per_module": 16,
+  "cell_capacity_ah": 50.0,
+  "cell_nominal_voltage": 3.7,
+  "cell_max_current_a": 150,
+  "modules": [
+    {
+      "mod_id": 0,
+      "cells": [
+        {"cell_id": 0, "soc": 0.85, "soh": 0.92, "temperature_c": 25.3, "internal_resistance_ohm": 0.002, "cycles": 120, "last_used": true},
+        {"cell_id": 1, "soc": 0.82, "soh": 0.94, "temperature_c": 24.8, "internal_resistance_ohm": 0.0019, "cycles": 115, "last_used": false},
+        {"cell_id": 2, "soc": 0.78, "soh": 0.91, "temperature_c": 26.1, "internal_resistance_ohm": 0.0021, "cycles": 130, "last_used": true},
+        {"cell_id": 3, "soc": 0.89, "soh": 0.93, "temperature_c": 24.5, "internal_resistance_ohm": 0.0018, "cycles": 110, "last_used": false},
+        {"cell_id": 4, "soc": 0.75, "soh": 0.89, "temperature_c": 27.2, "internal_resistance_ohm": 0.0023, "cycles": 150, "last_used": true},
+        {"cell_id": 5, "soc": 0.81, "soh": 0.95, "temperature_c": 25.0, "internal_resistance_ohm": 0.0017, "cycles": 100, "last_used": false},
+        {"cell_id": 6, "soc": 0.72, "soh": 0.88, "temperature_c": 28.1, "internal_resistance_ohm": 0.0024, "cycles": 160, "last_used": true},
+        {"cell_id": 7, "soc": 0.86, "soh": 0.92, "temperature_c": 25.5, "internal_resistance_ohm": 0.0020, "cycles": 125, "last_used": false},
+        {"cell_id": 8, "soc": 0.79, "soh": 0.90, "temperature_c": 26.8, "internal_resistance_ohm": 0.0022, "cycles": 140, "last_used": true},
+        {"cell_id": 9, "soc": 0.83, "soh": 0.93, "temperature_c": 25.2, "internal_resistance_ohm": 0.0019, "cycles": 118, "last_used": false},
+        {"cell_id": 10, "soc": 0.77, "soh": 0.89, "temperature_c": 27.5, "internal_resistance_ohm": 0.0023, "cycles": 155, "last_used": true},
+        {"cell_id": 11, "soc": 0.84, "soh": 0.94, "temperature_c": 24.9, "internal_resistance_ohm": 0.0018, "cycles": 108, "last_used": false},
+        {"cell_id": 12, "soc": 0.71, "soh": 0.87, "temperature_c": 28.5, "internal_resistance_ohm": 0.0025, "cycles": 165, "last_used": true},
+        {"cell_id": 13, "soc": 0.88, "soh": 0.95, "temperature_c": 24.3, "internal_resistance_ohm": 0.0016, "cycles": 95, "last_used": false},
+        {"cell_id": 14, "soc": 0.76, "soh": 0.90, "temperature_c": 27.0, "internal_resistance_ohm": 0.0022, "cycles": 145, "last_used": true},
+        {"cell_id": 15, "soc": 0.82, "soh": 0.93, "temperature_c": 25.1, "internal_resistance_ohm": 0.0019, "cycles": 122, "last_used": false}
+      ]
+    },
+    {
+      "mod_id": 1,
+      "cells": [
+        {"cell_id": 0, "soc": 0.83, "soh": 0.91, "temperature_c": 26.2, "internal_resistance_ohm": 0.0021, "cycles": 135, "last_used": false},
+        {"cell_id": 1, "soc": 0.79, "soh": 0.89, "temperature_c": 27.8, "internal_resistance_ohm": 0.0024, "cycles": 158, "last_used": true},
+        {"cell_id": 2, "soc": 0.86, "soh": 0.93, "temperature_c": 25.4, "internal_resistance_ohm": 0.0020, "cycles": 128, "last_used": false},
+        {"cell_id": 3, "soc": 0.81, "soh": 0.92, "temperature_c": 26.5, "internal_resistance_ohm": 0.0021, "cycles": 132, "last_used": true},
+        {"cell_id": 4, "soc": 0.77, "soh": 0.88, "temperature_c": 28.2, "internal_resistance_ohm": 0.0025, "cycles": 162, "last_used": false},
+        {"cell_id": 5, "soc": 0.84, "soh": 0.94, "temperature_c": 25.0, "internal_resistance_ohm": 0.0019, "cycles": 120, "last_used": true},
+        {"cell_id": 6, "soc": 0.80, "soh": 0.90, "temperature_c": 27.5, "internal_resistance_ohm": 0.0023, "cycles": 152, "last_used": false},
+        {"cell_id": 7, "soc": 0.85, "soh": 0.92, "temperature_c": 25.8, "internal_resistance_ohm": 0.0020, "cycles": 130, "last_used": true},
+        {"cell_id": 8, "soc": 0.78, "soh": 0.89, "temperature_c": 28.0, "internal_resistance_ohm": 0.0024, "cycles": 160, "last_used": false},
+        {"cell_id": 9, "soc": 0.82, "soh": 0.91, "temperature_c": 26.8, "internal_resistance_ohm": 0.0022, "cycles": 142, "last_used": true},
+        {"cell_id": 10, "soc": 0.87, "soh": 0.93, "temperature_c": 25.2, "internal_resistance_ohm": 0.0019, "cycles": 125, "last_used": false},
+        {"cell_id": 11, "soc": 0.79, "soh": 0.90, "temperature_c": 27.9, "internal_resistance_ohm": 0.0024, "cycles": 159, "last_used": true},
+        {"cell_id": 12, "soc": 0.83, "soh": 0.92, "temperature_c": 26.0, "internal_resistance_ohm": 0.0021, "cycles": 138, "last_used": false},
+        {"cell_id": 13, "soc": 0.80, "soh": 0.89, "temperature_c": 27.6, "internal_resistance_ohm": 0.0023, "cycles": 155, "last_used": true},
+        {"cell_id": 14, "soc": 0.85, "soh": 0.91, "temperature_c": 25.5, "internal_resistance_ohm": 0.0020, "cycles": 133, "last_used": false},
+        {"cell_id": 15, "soc": 0.81, "soh": 0.92, "temperature_c": 26.3, "internal_resistance_ohm": 0.0021, "cycles": 140, "last_used": true}
+      ]
+    }
+  ],
+  "system_constraints": {
+    "min_cell_soc": 0.05,
+    "max_cell_temp": 60.0,
+    "max_current_per_cell": 150,
+    "module_voltage_range": [12.0, 16.8]
+  }
+}

@@ -1,0 +1,153 @@
+# DRBP智能决策系统配置
+# 版本: 1.0
+
+# 系统配置
+system:
+  name: "DRBP智能决策系统"
+  version: "1.0.0"
+  description: "大模型驱动的动态可重构电池组智能决策"
+  decision_framework: "结构化六步决策法"
+
+# 电池规格
+battery:
+  total_modules: 20
+  cells_per_module: 16
+  cell_nominal_voltage: 3.7
+  cell_capacity_ah: 50.0
+  cell_max_current_a: 150
+  cell_min_soc: 0.05
+  cell_max_temp: 60.0
+
+# 决策优先级选项
+priorities:
+  - name: "快速均衡"
+    description: "优先降低高SOC电芯，快速收敛"
+    key_metric: "SOC方差减少量"
+    
+  - name: "热管理"
+    description: "控制温度分布，避免过热"
+    key_metric: "温度上升幅度"
+    
+  - name: "寿命优化"
+    description: "均衡电芯老化，延长整体寿命"
+    key_metric: "SOH变化均衡性"
+    
+  - name: "能量效率"
+    description: "最小化内阻损耗，提高效率"
+    key_metric: "能量损耗百分比"
+    
+  - name: "系统简化"
+    description: "使用最少电芯，降低复杂度"
+    key_metric: "电芯使用数量"
+
+# 策略选项
+strategies:
+  - name: "高SOC优先策略"
+    description: "选择SOC最高的电芯"
+    best_for: ["快速均衡", "能量效率"]
+    
+  - name: "均衡混合策略"
+    description: "混合不同SOC水平的电芯"
+    best_for: ["平稳放电", "寿命优化"]
+    
+  - name: "温度优化策略"
+    description: "优先使用低温电芯"
+    best_for: ["热管理", "寿命优化"]
+    
+  - name: "最小电芯策略"
+    description: "使用最少电芯满足需求"
+    best_for: ["系统简化"]
+    
+  - name: "寿命优化策略"
+    description: "优先使用健康状态好的电芯"
+    best_for: ["寿命优化"]
+
+# 安全约束
+safety:
+  hard_constraints:
+    min_soc: 0.05
+    max_cell_current: 150
+    max_cell_temp: 60.0
+    min_cell_voltage: 3.0
+    max_cell_voltage: 4.2
+    max_reconfiguration_time_ms: 100
+    
+  soft_constraints:
+    preferred_soc_range_after: 0.1-0.3
+    preferred_temp_gradient: "<10°C"
+    preferred_current_balance: "±10%"
+
+# 拓扑限制
+topology:
+  max_series_per_module: 4
+  max_parallel_per_module: 4
+  min_cells_per_module: 1
+  max_cells_per_module: 16
+  voltage_tolerance_percent: 5
+  current_tolerance_percent: 10
+
+# 输出配置
+output:
+  required_sections:
+    - "decision_summary"
+    - "state_analysis"
+    - "technical_solution"
+    - "safety_verification"
+    - "impact_prediction"
+    - "reasoning_process"
+    
+  quality_indicators:
+    - "目标明确性"
+    - "逻辑连贯性"
+    - "安全可靠性"
+    - "解释透彻性"
+
+# 工具配置
+tools:
+  battery_analyzer:
+    enabled: true
+    purpose: "提供电池状态数据洞察"
+    
+  candidate_generator:
+    enabled: true
+    purpose: "生成多个候选方案供选择"
+    
+  safety_checker:
+    enabled: true
+    purpose: "验证方案安全性"
+
+# 评估标准
+evaluation:
+  decision_quality_levels:
+    high:
+      criteria: ["目标明确", "逻辑清晰", "安全可靠", "解释透彻"]
+      score_range: [80, 100]
+      
+    medium:
+      criteria: ["有逻辑但不够深入", "安全但保守", "解释简单"]
+      score_range: [60, 80]
+      
+    low:
+      criteria: ["随意", "矛盾", "不安全", "无解释"]
+      score_range: [0, 60]
+
+# 示例配置
+examples:
+  typical_scenarios:
+    - name: "快速均衡场景"
+      power_kw: 30
+      duration_min: 10
+      priority: "快速均衡"
+      expected_strategy: "高SOC优先策略"
+      
+    - name: "热管理场景"
+      power_kw: 20
+      duration_min: 15
+      priority: "热管理"
+      expected_strategy: "温度优化策略"
+      
+    - name: "寿命优化场景"
+      power_kw: 25
+      duration_min: 10
+      priority: "寿命优化"
+      expected_strategy: "寿命优化策略"

@@ -144,8 +144,12 @@ json
 - 通常采用每个模组内5串2并（10电芯）的标准拓扑，总电芯200个，电流压力小，电压适中。
 
 ### 4. 电芯选择策略
-
+Execute `scripts/cell_selector.py` with LLM strategy parameters:
+```bash
+python scripts/cell_selector.py --battery input_file.json --strategy equilibrium --cells_per_module 4 --weights '{"soc": 0.9, "soh": 0.1}'
+```
 - 排除 `is_cut_off=True` 的电芯。
+- If multiple configurations possible, choose minimal parallel count (fewer cells)
 - 优先选择SOC较高的电芯，以均衡整体SOC。
 - 确保挑选的每个电芯都能都放电任务所需时间。
 - 避免使用温度过高（>340 K）的电芯，防止热失控风险。

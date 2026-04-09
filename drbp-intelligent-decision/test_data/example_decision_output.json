@@ -1,0 +1,59 @@
+{
+  "decision_summary": {
+    "status": "success",
+    "primary_goal": "快速均衡",
+    "strategy": "高SOC优先策略",
+    "decision_quality": "high"
+  },
+  
+  "state_analysis": {
+    "soc_distribution": "当前SOC均值0.812，标准差0.043，范围0.71-0.89。不均衡程度中等偏高，需要快速收敛。",
+    "key_observation": "3号模组整体SOC偏高（平均0.85），12号电芯温度异常（28.5°C），需要特别注意。",
+    "unbalance_level": "中高"
+  },
+  
+  "technical_solution": {
+    "cells_per_module": 4,
+    "topology": {
+      "series_per_module": 2,
+      "parallel_per_module": 2,
+      "rationale": "2串2并配置提供合理的电压电流分配。总电压148V（20×2×3.7），总电流约203A（30kW/148V），每个电芯电流约101A，在安全范围内。"
+    },
+    "selected_cells_plan": [
+      {
+        "module_id": 0,
+        "selected_cell_ids": [0, 3, 7, 13],
+        "selection_reason": "选择SOC最高的4个电芯（0.85-0.89），快速降低高SOC电芯，但避开温度异常的12号电芯（28.5°C）。"
+      },
+      {
+        "module_id": 1,
+        "selected_cell_ids": [2, 5, 7, 10],
+        "selection_reason": "选择SOC最高的4个电芯（0.84-0.87），均衡放电。"
+      }
+      // 注：实际应有20个模组，此处仅示例
+    ]
+  },
+  
+  "safety_verification": {
+    "min_soc_after": 0.12,
+    "max_current_per_cell": 101,
+    "temperature_impact": "预计最高温度升至29-30°C，仍在安全范围内。",
+    "bucket_effect_check": "最弱电芯（SOC 0.71）放电后SOC约0.12，高于最低安全阈值0.05。"
+  },
+  
+  "impact_prediction": {
+    "soc_variance_after": 0.025,
+    "convergence_progress": "预计SOC标准差从0.043降至0.025，均衡进度显著（约42%改善）。",
+    "trade_offs": "牺牲了部分温度管理来换取快速均衡，但通过避开最高温电芯进行了缓解。",
+    "next_cycle_recommendation": "下次放电可重点关注温度管理，使用低温电芯策略。"
+  },
+  
+  "reasoning_process": {
+    "step1_analysis": "SOC分布不均衡（范围0.18），温度有热点但总体可控。",
+    "step2_priority": "选择'快速均衡'作为主要目标，因为SOC差异是当前最主要矛盾。",
+    "step3_strategy": "采用'高SOC优先策略'，快速降低高SOC电芯，加速收敛。",
+    "step4_parameter_decision": "选择4电芯/模组（2串2并），平衡电压电流需求和安全裕度。",
+    "step5_safety_check": "所有硬约束通过，最弱电芯安全边际足够。",
+    "alternative_considered": "考虑过均衡混合策略（更温和）和最小电芯策略（更激进），但当前快速均衡需求最迫切。"
+  }
+}
