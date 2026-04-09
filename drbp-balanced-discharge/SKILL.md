@@ -75,7 +75,7 @@ Call LLM API with a structured prompt containing:
 - Battery pack constraints
 
 ## Step 4: Cell Selection with Bucket Effect Protection
-If there are modules that do not meet the requirements, the number of cells selected per module should be increased
+If there are modules that do not meet the requirements, the number of cells selected per module should be increased, Otherwise, execute only once.
 Execute `scripts/cell_selector.py` with LLM strategy parameters:
 ```bash
 python scripts/cell_selector.py --battery input_file.json --strategy equilibrium --cells_per_module 4 --weights '{"soc": 0.9, "soh": 0.1}'
