@@ -85,7 +85,7 @@ python scripts/cell_selector.py --battery input_file.json --strategy equilibrium
 
 
 ## Step 5: Topology Determination
-
+In this step, there are no tools; the decision is directly handed over to the large model.
 **Constraints:**
 - 20 modules in series → each module must have identical series/parallel configuration
 - Selected cells per module must be divisible into equal series/parallel groups
