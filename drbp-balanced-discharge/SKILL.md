@@ -70,7 +70,7 @@ Call LLM API with a structured prompt containing:
 
 **Output:** `v_req` (V) and `i_req` (A), based on:
 
-- `i_req` must not exceed the continuous discharge current of 37.7A.
+- The discharge current of each cell must not exceed the continuous discharge current of 37.7A
 - Constant power demand
 - Vehicle efficiency model
 - Battery pack constraints
