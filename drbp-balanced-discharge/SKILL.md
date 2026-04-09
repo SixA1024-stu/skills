@@ -52,7 +52,7 @@ Extract navigation parameters from user prompt
 
 Call LLM API with a structured prompt containing:
 1. Battery state summary (module-level statistics)
-2. Navigation requirements
+2. Power requirement (Step 2)
 3. Available strategy definitions (see `references/strategies.md`)
 
 **Expected LLM output format:**
