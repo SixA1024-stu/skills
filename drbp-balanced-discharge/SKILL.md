@@ -25,8 +25,7 @@ graph TD
     B --> C[Calculate Power Requirements]
     C --> D[Select Cells with Bucket Effect Protection]
     D --> E[Determine Series/Parallel Topology]
-    E --> H
-    H --> J[Output]
+    E --> F[Output] 
 ```
 
 ## Step 1: Input Data Preparation
@@ -102,17 +101,8 @@ python scripts/cell_selector.py --battery input_file.json --strategy equilibrium
 3. Find configuration where `n_series × n_parallel ≤ selected_cells_per_module`
 4. If multiple configurations possible, choose minimal parallel count (fewer cells)
 
-## Step 6: Fallback Mechanism
 
-If LLM decision fails or safety validation fails:
-1. Switch to **deterministic fallback strategy**
-2. Select cells with highest SOC in each module
-3. Use conservative topology (more parallel connections for current sharing)
-4. Log failure reason for analysis
-
-
-
-## Step 7: Structured Output Generation
+## Step 6: Structured Output Generation
 
 Final output format:
 ```json
