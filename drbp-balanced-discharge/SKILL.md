@@ -39,7 +39,7 @@ Extract navigation parameters from user prompt
 ## Step 2: Power Requirement Calculation
 
 - See `references/vehicle_model.md`
-- First calculate `i_req`, then calculate `v_req` based on the current and power
+- First calculate `i_req`,the discharge current of each cell must not exceed the continuous discharge current of 37.7A),then calculate `v_req` based on the current and power
 
 **Output:** `v_req` (V) and `i_req` (A) (The discharge current of each cell must not exceed the continuous discharge current of 37.7A), based on:
 
