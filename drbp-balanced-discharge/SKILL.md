@@ -21,8 +21,8 @@ This skill enables intelligent management of Dynamic Reconfigurable Battery Pack
 
 ```mermaid
 graph TD
-    A[Input: Navigation Info + Battery State] --> B[LLM Strategy Selection]
-    B --> C[Calculate Power Requirements]
+    A[Input: Navigation Info + Battery State] --> B[Calculate Power Requirements]
+    B --> C[LLM Strategy Selection]
     C --> D[Select Cells with Bucket Effect Protection]
     D --> E[Determine Series/Parallel Topology]
     E --> F[Output] 
@@ -36,8 +36,19 @@ Extract battery state summary parameters from user prompt
 ### Navigation Information (via Prompt)
 Extract navigation parameters from user prompt
 
+## Step 2: Power Requirement Calculation
 
-## Step 2: LLM Strategy Selection
+- See `references/vehicle_model.md`
+- First calculate `i_req`, then calculate `v_req` based on the current and power
+
+**Output:** `v_req` (V) and `i_req` (A) (The discharge current of each cell must not exceed the continuous discharge current of 37.7A), based on:
+
+- The discharge current of each cell must not exceed the continuous discharge current of 37.7A
+- Constant power demand
+- Vehicle efficiency model
+- Battery pack constraints
+
+## Step 3: LLM Strategy Selection
 
 Call LLM API with a structured prompt containing:
 1. Battery state summary (module-level statistics)
@@ -62,17 +73,7 @@ Call LLM API with a structured prompt containing:
 3. **Thermal-management**: Control temperature distribution, prioritize high-temperature cells
 4. **Lifetime-optimization**: Minimize aging, prioritize low-SOH cells (with safety constraints)
 
-## Step 3: Power Requirement Calculation
 
-- See `references/vehicle_model.md`
-- First calculate `i_req`, then calculate `v_req` based on the current and power
-
-**Output:** `v_req` (V) and `i_req` (A) (The discharge current of each cell must not exceed the continuous discharge current of 37.7A), based on:
-
-- The discharge current of each cell must not exceed the continuous discharge current of 37.7A
-- Constant power demand
-- Vehicle efficiency model
-- Battery pack constraints
 
 ## Step 4: Cell Selection with Bucket Effect Protection
 
