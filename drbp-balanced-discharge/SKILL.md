@@ -98,7 +98,7 @@ In this step, there are no tools; the decision is directly handed over to the la
 
 
 ## Step 6: Structured Output Generation
-
+Once the final result is generated, you can finish; just output the result directly.
 Final output format:
 ```json
 {

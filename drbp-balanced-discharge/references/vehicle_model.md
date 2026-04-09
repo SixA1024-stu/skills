@@ -85,9 +85,9 @@ Fixed mass is unrealistic. Update mass based on load:
 ```
 m = m_curb + m_cargo + m_passenger
 ```
-- `m_curb` = curb weight (from database)
-- `m_cargo` = cargo mass (user input or estimate)
-- `m_passenger` = 75 kg per person × number of passengers
+- `m_curb` = curb weight (1800)
+- `m_cargo` = cargo mass (50)
+- `m_passenger` = 75 kg 
 
 Both rolling resistance and grade force scale linearly with mass.
 
