@@ -48,8 +48,8 @@ Call LLM API with a structured prompt containing:
 **Expected LLM output format:**
 ```json
 {
-  "strategy": "equilibrium",
-  "reason": "SOC标准差较大(0.15)，需要快速收敛",
+  "strategy": "", 
+  "reason": "",   //reason for the choice
   "parameters": {
     "cells_per_module": 4,
     "priority_weights": {"soc": 0.9, "soh": 0.1}
@@ -117,17 +117,17 @@ If LLM decision fails or safety validation fails:
 Final output format:
 ```json
 {
-  "status": boolean, //电池组是否还能运行
-  "v_req": float, //需求电压，根据电流和功率计算
-  "i_req": float, //需求电流,先适配电流
+  "status": boolean, //Whether it meets the task requirements
+  "v_req": float, //Required voltage, calculated based on current and power
+  "i_req": float, //Required current, first match the current. The discharge current of each cell must not exceed the continuous discharge current of 37.7 A.
   "selected_cells": [
     {
-      "mod_id": int,  //模组id
-      "cells": [[...], [...]]  // 二维列表，每一个子列表为一个并联支路，比如这是n串2并
+      "mod_id": int,  //module id
+      "cells": [[...], [...]]  // A two-dimensional list, where each sublist represents a parallel branch. For example, this is n in series and 2 in parallel
     },
     // ... 19 more modules
   ],
-  "reason": ""  // 选择理由
+  "reason": ""  // reason for the choice
 }
 ```
 
