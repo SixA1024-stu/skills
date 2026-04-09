@@ -66,10 +66,11 @@ Call LLM API with a structured prompt containing:
 ## Step 3: Power Requirement Calculation
 
 - See `references/vehicle_model.md`
-- First calculate the required current, then calculate the voltage based on the current and power
+- First calculate `i_req`, then calculate `v_req` based on the current and power
 
 **Output:** `v_req` (V) and `i_req` (A), based on:
 
+- `i_req` must not exceed the continuous discharge current of 37.7A.
 - Constant power demand
 - Vehicle efficiency model
 - Battery pack constraints
