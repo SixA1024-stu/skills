@@ -75,7 +75,7 @@ Call LLM API with a structured prompt containing:
 - Battery pack constraints
 
 ## Step 4: Cell Selection with Bucket Effect Protection
-Can only be called once
+If there are modules that do not meet the requirements, the number of cells selected per module should be increased
 Execute `scripts/cell_selector.py` with LLM strategy parameters:
 ```bash
 python scripts/cell_selector.py --battery input_file.json --strategy equilibrium --cells_per_module 4 --weights '{"soc": 0.9, "soh": 0.1}'
@@ -98,7 +98,7 @@ In this step, there are no tools; the decision is directly handed over to the la
 
 
 ## Step 6: Structured Output Generation
-Once the final result is generated, you can finish; just output the result directly.
+Once the final result is generated, you can finish; just return the result directly.Do not write it into the file.
 Final output format:
 ```json
 {
