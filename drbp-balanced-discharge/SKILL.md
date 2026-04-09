@@ -83,11 +83,6 @@ python scripts/cell_selector.py --battery input_file.json --strategy equilibrium
 
 **Bucket effect protection:** The algorithm ensures the weakest selected cell (lowest SOC, highest resistance) can safely discharge for 10 minutes without dropping below minimum SOC threshold (default: 0.05).
 
-**Selection logic:**
-1. Calculate composite score for each cell: `score = w1*soc + w2*soh - w3*temperature - w4*resistance`
-2. Sort cells within each module by score (descending)
-3. Select top `k` cells per module
-4. Validate each selected cell can deliver required current for 10 minutes
 
 ## Step 5: Topology Determination
 
@@ -123,11 +118,9 @@ Final output format:
 
 ## File References
 
-- **Battery architecture details**: See `references/architecture.md`
 - **Strategy definitions**: See `references/strategies.md`
 - **Vehicle model parameters**: See `references/vehicle_model.md`
 - **Safety constraints**: See `references/safety_constraints.md`
-- **LLM prompt templates**: See `references/llm_prompts.md`
 
 ## Important Notes
 
