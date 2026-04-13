@@ -79,11 +79,11 @@ Call LLM API with a structured prompt containing:
 
 Execute `scripts/cell_selector.py` with LLM strategy parameters:
 ```bash
-python scripts/cell_selector.py --battery input_file.json --strategy equilibrium --cells_per_module 4 --weights '{"soc": 0.9, "soh": 0.1}'
+python scripts/cell_selector.py --battery input_file.json --strategy equilibrium --cells_per_module 4'
 ```
 
 **Bucket effect protection:** The algorithm ensures the weakest selected cell (lowest SOC, highest resistance) can safely discharge for 10 minutes without dropping below minimum SOC threshold (default: 0.05).
-
+**Critical Rule:** When none of the options can be satisfied, directly return status as False and end the task.
 
 ## Step 5: Topology Determination
 In this step, there are no tools; the decision is directly handed over to the large model.
